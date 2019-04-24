@@ -198,10 +198,10 @@ a, a:hover {
 
 .wrapper-description .wrapper-content {
   width: 753px;
-  height: 100%;
+  height: auto;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   text-align: left;
 }
@@ -215,11 +215,7 @@ a, a:hover {
 
 .wrapper-description .wrapper-content p {
   padding: 0 0 10px 0;
-  text-align: left;
-}
-
-.wrapper-description .wrapper-content p span {
-  font-weight: 600;
+  text-align: justify;
 }
 
 .wrapper-content span {
