@@ -1,9 +1,11 @@
 body {
   font-family: "Montserrat" !important;
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6, p, button {
   font-weight: 300 !important;
+  text-align: center;
 }
 
 /* --- MENU --- */
@@ -61,21 +63,42 @@ h1, h2, h3, h4, h5, h6, p, button {
 }
 
 .banner-homepage {
-  background-image: url(https://cecile-dzy-ncl.github.io/LVU/images/IMAGE_HOME.jpg);
+  background-image: url(https://cecile-dzy-ncl.github.io/LVU/images/IMAGE_HOME.png);
   background-size: cover;
   height: 707px;
   display: flex;
   align-items: flex-end;
   text-align: center;
   color: #fff;
+  /* opacity: 0.3; */
+}
+
+.banner-homepage h1 {
+  color: #FFFFFF;
+  font-family: Montserrat;
+  font-size: 96px;
+  line-height: 80px;
+  text-align: center;
 }
 
 .banner-text {
   width: 900px;
-  margin: 0 auto 45px auto;
-  color: #fff
+  margin: 0 auto 110px auto;
+  color: #fff;
 }
 
 .banner-text p, .wrapper-help p {
   color: #fff
+}
+
+/* --- HOMEPAGE --- */
+
+#tag-montant {
+  color: #000000;
+  font-family: Montserrat;
+  font-size: 92px;
+  font-weight: 600 !important;
+  letter-spacing: 4.6px;
+  line-height: 48px;
+  text-align: center;
 }
