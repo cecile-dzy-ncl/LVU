@@ -191,11 +191,11 @@ a, a:hover {
   align-items: center;
 }
 
-.help-content span {
+.wrapper-content span {
   font-weight: 600;
 }
 
-.help-content p a, .help-content p a:-webkit-any-link {
+.wrapper-content p a {
   color: #fff !important;
   text-decoration: underline;
   font-weight: 600;
@@ -220,7 +220,7 @@ a, a:hover {
   justify-content: center;
   align-items: center;
   height: 573px;
-  width: 100%;
+  width: 80%;
   margin: 100px auto;
 }
 
