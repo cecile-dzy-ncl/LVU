@@ -26,6 +26,29 @@ a, a:hover {
   text-decoration: none;
 }
 
+/* --- OVERWRITE IRAISER --- */
+
+.habillage .row {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.habillage .row .row, .habillage .section-projets .row, .habillage .section-home-projects .row, .section-projet-details, #project_tabs, section.project_event_description, section.event-head, section.section-my-event .row, .stats-event, #footer-collecte {
+  max-width: 71.25em;
+  margin: 0 auto;
+}
+
+.infos-money .progress .graph-bar {
+  background-color: #053C50;
+  border-radius: 0;
+}
+
+.container {
+  padding: 0 !important;
+}
+
 /* --- MENU --- */
 
 .row-1 {
@@ -184,7 +207,7 @@ a, a:hover {
   justify-content: center;
   align-items: center;
   height: 573px;
-  width: 90%;
+  width: 100%;
   margin: 100px auto;
 }
 
@@ -211,4 +234,20 @@ a, a:hover {
 
 .camp-description p {
   margin: 0 45px;
+}
+
+/* ------------------------------- RESPONSIVE ------------------------------- */
+
+.campagne {
+  flex-direction: column;
+  width: 80%;
+}
+
+.camp-photo {
+  height: 100%;
+  width: 100%;
+}
+
+.camp-description {
+  width: 100%;
 }
