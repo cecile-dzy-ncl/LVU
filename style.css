@@ -61,9 +61,9 @@ h1, h2, h3, h4, h5, h6, p, button {
 }
 
 .banner-homepage {
-  background-image: url(https://cecile-dzy-ncl.github.io/LVU/images/IMAGE_HOME.png);
+  background-image: url(https://cecile-dzy-ncl.github.io/LVU/images/IMAGE_HOME.jpg);
   background-size: cover;
-  height: 631px;
+  height: 707px;
   display: flex;
   align-items: flex-end;
   text-align: center;
@@ -73,12 +73,6 @@ h1, h2, h3, h4, h5, h6, p, button {
 .banner-text {
   width: 900px;
   margin: 0 auto 45px auto;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
-  color: #fff
-}
-
-.banner-text h4 {
-  margin: 20px auto;
   color: #fff
 }
 
