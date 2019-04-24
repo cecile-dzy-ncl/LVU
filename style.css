@@ -251,6 +251,8 @@ a, a:hover {
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
+@media (max-width: 770px) {
+
 .campagne {
   flex-direction: column;
   width: 80%;
@@ -263,4 +265,9 @@ a, a:hover {
 
 .camp-description {
   width: 100%;
+}
+
+
+
+
 }
