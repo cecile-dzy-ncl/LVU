@@ -123,6 +123,7 @@ a, a:hover {
 .banner {
   height: 412px;
   background-size: cover;
+  background-color: grey;
 }
 
 .banner-homepage {
