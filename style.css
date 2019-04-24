@@ -1,0 +1,87 @@
+body {
+  font-family: "Montserrat" !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, button {
+  font-weight: 300 !important;
+}
+
+/* --- MENU --- */
+
+.row-1 {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.row-2 {
+  height: 47px;
+  width: 100%;
+  background-color: #F0F0F0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-2 a {
+  color: #000;
+  text-decoration: none;
+}
+
+.line {
+  box-sizing: border-box;
+  height: 25px;
+  border: 0.5px solid #000000;
+  margin: 0 40px;
+}
+
+/* --- BOUTONS --- */
+
+
+.button {
+  /* margin: 0 auto; */
+  padding: 2px 35px;
+  background-color: #fff;
+  color: #000;
+  border: 5px solid #6ED7E5;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: 32px;
+  text-align: center;
+}
+
+/* --- BANNERS --- */
+
+
+.banner {
+  height: 412px;
+  background-size: cover;
+}
+
+.banner-homepage {
+  background-image: url(https://cecile-dzy-ncl.github.io/LVU/images/IMAGE_HOME.png);
+  background-size: cover;
+  height: 631px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  color: #fff;
+}
+
+.banner-text {
+  width: 900px;
+  margin: 0 auto 45px auto;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+  color: #fff
+}
+
+.banner-text h4 {
+  margin: 20px auto;
+  color: #fff
+}
+
+.banner-text p, .wrapper-help p {
+  color: #fff
+}
