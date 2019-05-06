@@ -257,7 +257,7 @@ a, a:hover {
 
 .block-row {
   display: flex;
-  /*flex-direction: column;*/
+  /* flex-direction: column; */
 }
 
 .block-item {
@@ -275,7 +275,7 @@ a, a:hover {
 
 .block-images {
   height: 770px;
-  width: 1141px;
+  width: 79%;
   margin: auto;
   display: flex;
   /*background-color: yellow;*/
@@ -335,6 +335,51 @@ a, a:hover {
 .column-left .block-img:last-child {
   height: 245px;
 }
+
+.block-join h2 {
+  font-weight: 600 !important;
+}
+
+.block-join {
+  height: 450px;
+  width: 79%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: yellow;
+  margin-top: 110px;
+  margin-bottom: 95px;
+  justify-content: space-evenly;
+}
+
+.block-card  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background: blue;
+  height: 400px;
+  padding: 15px;
+}
+
+.block-card p:first-child {
+  font-weight: 600 !important;
+}
+
+.block-icon {
+  background-color: #6ED7E5;
+  border-radius: 50%;
+  height: 176px;
+  width: 176px;
+  display: flex;
+  justify-content: center;
+}
+
+.block-join p {
+  font-size: 16px;
+  line-height: 22px;
+}
+
 
 /* --- HOMEPAGE --- */
 
