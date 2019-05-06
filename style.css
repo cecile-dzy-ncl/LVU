@@ -9,6 +9,12 @@ h1, h2, h3, h4, h5, h6, p, button {
   margin: 0;
 }
 
+h2 {
+  font-size: 24px;
+  line-height: 24px;
+  margin: 0;
+}
+
 h5 {
   font-size: 23px;
   font-weight: 500 !important;
@@ -257,7 +263,7 @@ a, a:hover {
 
 .block-row {
   display: flex;
-  /* flex-direction: column; */
+  align-items: center;
 }
 
 .block-item {
@@ -341,12 +347,12 @@ a, a:hover {
 }
 
 .block-join {
-  height: 450px;
+  height: 470px;
   width: 79%;
   margin: auto;
   display: flex;
   flex-direction: column;
-  background-color: yellow;
+  /*background-color: yellow;*/
   margin-top: 110px;
   margin-bottom: 95px;
   justify-content: space-evenly;
@@ -357,12 +363,12 @@ a, a:hover {
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
-  background: blue;
+  /*background: blue;*/
   height: 400px;
   padding: 15px;
 }
 
-.block-card p:first-child {
+.block-card-title {
   font-weight: 600 !important;
 }
 
@@ -378,8 +384,15 @@ a, a:hover {
 .block-join p {
   font-size: 16px;
   line-height: 22px;
+  font-weight: 300;
+  letter-spacing: 0.48px;
 }
 
+.block-join-line {
+  height: 390px;
+  border: 0.5px solid #303333;
+  background-color: rgba(0,0,0,0);
+}
 
 /* --- HOMEPAGE --- */
 
@@ -427,6 +440,17 @@ a, a:hover {
 
 .camp-description p {
   margin: 0 45px;
+}
+
+
+/* --- ABOUT --- */
+
+.about-video {
+  height: 427px;
+  width: 755px;
+  opacity: 0.3;
+  margin: auto;
+  background-color: #053C50;
 }
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
