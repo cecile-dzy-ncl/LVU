@@ -69,6 +69,10 @@ a, a:hover {
   padding: 0 !important;
 }
 
+.top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a { {
+  font-weight: 600 !important;
+}
+
 /* --- MENU --- */
 
 .row-1 {
