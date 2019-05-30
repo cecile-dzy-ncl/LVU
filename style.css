@@ -69,7 +69,7 @@ a, a:hover {
   padding: 0 !important;
 }
 
-.top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a { {
+.top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a {
   font-weight: 600 !important;
 }
 
@@ -107,7 +107,7 @@ a, a:hover {
 /* --- BOUTONS --- */
 
 
-.button {
+.btn-blue {
   padding: 2px 35px;
   background-color: #fff0;
   color: #000;
@@ -118,7 +118,7 @@ a, a:hover {
   text-align: center;
 }
 
-.button-lg {
+.btn-lg {
   padding: 2px 60px;
   background-color: #fff0;
   color: #000;
@@ -127,9 +127,10 @@ a, a:hover {
   letter-spacing: 0.6px;
   line-height: 32px;
   text-align: center;
+  width: 272px;
 }
 
-.button-white {
+.btn-white {
   padding: 2px 35px;
   background-color: #fff0;
   color: #fff;
@@ -140,6 +141,12 @@ a, a:hover {
   text-align: center;
 }
 
+.buttons-flex {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 4% auto 8% auto;
+}
 
 /* --- BANNERS --- */
 
@@ -178,6 +185,7 @@ a, a:hover {
 .banner-text p, .wrapper-help p {
   color: #fff
 }
+
 
 /* --- WRAPPERS --- */
 
@@ -227,9 +235,9 @@ a, a:hover {
 
 .wrapper-description .wrapper-content h1 {
   padding: 0 0 45px 0;
-  font-size: 60px;
+  font-size: 53px;
   letter-spacing: 1.8px;
-  line-height: 24px;
+  /* line-height: 24px; */
 }
 
 .wrapper-description .wrapper-content p {
@@ -249,6 +257,18 @@ a, a:hover {
 
 .wrapper-about {
   height:150px;
+}
+
+.wrapper-challenge {
+  height: 300px;
+}
+
+.challenge span {
+  /* text-align: right; */
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0.72px;
+  line-height: 29px;
 }
 
 /* --- BLOCKS --- */
@@ -396,6 +416,35 @@ a, a:hover {
   height: 390px;
   border: 0.5px solid #303333;
   background-color: rgba(0,0,0,0);
+}
+
+.bloc-dates {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 80%;
+  margin: auto;
+}
+
+.date-when,
+.date-start,
+.date-contact {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  display: flex;
+}
+
+.date-label {
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: 24px;
+}
+
+
+.date-info {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
 }
 
 /* --- HOMEPAGE --- */
