@@ -72,6 +72,7 @@ a, a:hover {
 
 .container {
   padding: 0 !important;
+  color: #000;
 }
 
 .top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a {
