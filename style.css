@@ -214,7 +214,7 @@ a, a:hover {
 
 .wrapper-description {
   width: 100%;
-  height: 510px;
+  height: 530px;
   background-color: #fff;
   display: flex;
   justify-content: center;
@@ -266,7 +266,7 @@ a, a:hover {
 }
 
 .wrapper-about {
-  height:150px;
+  height:170px;
 }
 
 .wrapper-challenge {
