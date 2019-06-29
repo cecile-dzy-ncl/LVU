@@ -221,7 +221,7 @@ a, a:hover {
   align-items: center;
   /* text-align: left; */
   color: #000 !important;
-  padding: 50px 0 0 0;
+  padding: 50px 0;
 }
 
 .wrapper-content {
@@ -266,7 +266,7 @@ a, a:hover {
 }
 
 .wrapper-about {
-  height:170px;
+  height:auto;
 }
 
 .wrapper-challenge {
