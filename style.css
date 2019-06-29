@@ -48,6 +48,11 @@ a, a:hover {
 
 /* --- OVERWRITE IRAISER --- */
 
+#indexs-index .intro {
+  padding: 0;
+  margin: 0;
+}
+
 .habillage .row {
   width: 100%;
   max-width: 100%;
