@@ -321,7 +321,7 @@ a, a:hover {
   /*background-color: yellow;*/
   margin-top: 110px;
   margin-bottom: 95px;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .column-left, .column-right {
