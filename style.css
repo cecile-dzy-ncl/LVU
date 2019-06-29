@@ -113,7 +113,7 @@ a, a:hover {
 /* --- BOUTONS --- */
 
 
-.btn-blue {
+.button-blue {
   padding: 2px 35px;
   background-color: #fff0;
   color: #000;
@@ -124,7 +124,7 @@ a, a:hover {
   text-align: center;
 }
 
-.btn-lg {
+.button-lg {
   padding: 2px 60px;
   background-color: #fff0;
   color: #000;
