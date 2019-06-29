@@ -321,7 +321,7 @@ a, a:hover {
   /*background-color: yellow;*/
   margin-top: 110px;
   margin-bottom: 95px;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .column-left, .column-right {
@@ -333,6 +333,7 @@ a, a:hover {
 .column-left {
   width: 366px;
   height: 100%;
+  margin-right: 20px;
 }
 
 .column-right {
