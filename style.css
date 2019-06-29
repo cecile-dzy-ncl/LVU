@@ -79,6 +79,10 @@ a, a:hover {
   font-weight: 600 !important;
 }
 
+.row.bg-color-light-blurred.first-section {
+  background: #fff;
+}
+
 /* --- MENU --- */
 
 .row-1 {
