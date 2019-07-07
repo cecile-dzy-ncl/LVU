@@ -131,6 +131,8 @@ a, a:hover {
 }
 
 .button-blue:hover {
+  background-color: #fff0;
+  color: #000;
   border: 5px solid #43cbdd;
 }
 
