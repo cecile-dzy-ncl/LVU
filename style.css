@@ -325,7 +325,6 @@ a, a:hover {
   width: 79%;
   margin: auto;
   display: flex;
-  /*background-color: yellow;*/
   margin-top: 110px;
   margin-bottom: 95px;
   justify-content: center;
@@ -359,7 +358,6 @@ a, a:hover {
 
 .column-right .block-img {
   height: 504px;
-  background: url(images/bloc-5@2x.png);
   background-size: cover;
 }
 
