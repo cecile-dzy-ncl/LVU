@@ -395,12 +395,9 @@ a, a:hover {
 .block-join {
   height: 470px;
   width: 79%;
-  margin: auto;
+  margin: 50px auto;
   display: flex;
   flex-direction: column;
-  /*background-color: yellow;*/
-  margin-top: 110px;
-  margin-bottom: 95px;
   justify-content: space-evenly;
 }
 
