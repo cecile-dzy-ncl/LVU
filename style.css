@@ -12,6 +12,7 @@ h1, h2, h3, h4, h5, h6, p, button {
 h2 {
   font-size: 24px;
   line-height: 24px;
+  letter-spacing: 1.2px;
   margin: 0;
 }
 
@@ -392,6 +393,7 @@ a, a:hover {
 
 .block-join h2 {
   font-weight: 600 !important;
+  color: #000;
 }
 
 .block-join {
