@@ -447,7 +447,7 @@ a, a:hover {
 }
 
 .block-join-line-sm {
-  height: 390px;
+  height: 230px;
   border-left: 0.5px solid #303333;
   background-color: rgba(0,0,0,0);
 }
