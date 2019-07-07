@@ -120,7 +120,7 @@ a, a:hover {
 .button-blue {
   padding: 2px 35px;
   background-color: #fff0;
-  color: #6ED7E5;
+  color: #000;
   border: 5px solid #6ED7E5;
   font-size: 12px;
   letter-spacing: 0.6px;
@@ -142,6 +142,10 @@ a, a:hover {
   letter-spacing: 0.6px;
   line-height: 32px;
   text-align: center;
+}
+
+.button-white a {
+  color: #fff;
 }
 
 .buttons-flex {
