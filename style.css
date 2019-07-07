@@ -85,6 +85,20 @@ a, a:hover {
   background: #fff;
 }
 
+section.top-bar-section {
+  background: #F0F0F0 !important;
+}
+
+section#header-header {
+  box-shadow: none !important;
+}
+
+.top-bar-section a {
+  color: #000 !important;
+  letter-spacing: 0.7px;
+  font-weight: 300 !important;
+}
+
 /* --- MENU --- */
 
 .row-1 {
