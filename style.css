@@ -496,6 +496,10 @@ a, a:hover {
 
 .date-contact .date-info, .date-contact .date-info a {
   color: #000;
+}
+
+.date-contact .date-info a {
+  color: #000;
   text-decoration: underline;
 }
 
