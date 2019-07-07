@@ -490,6 +490,16 @@ a, a:hover {
   text-align: left;
 }
 
+.date-start .date-info {
+  font-size: 16px;
+}
+
+.date-contact .date-info, .date-contact .date-info a {
+  color: #000;
+  text-decoration: underline;
+}
+
+
 /* --- HOMEPAGE --- */
 
 #tag-montant {
