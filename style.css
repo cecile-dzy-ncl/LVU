@@ -507,6 +507,9 @@ a, a:hover {
   text-decoration: underline;
 }
 
+.card-grey .date-when, .card-grey .date-start  {
+  text-align: center;
+}
 
 /* --- HOMEPAGE --- */
 
