@@ -130,6 +130,10 @@ a, a:hover {
   text-align: center;
 }
 
+.button-blue:hover {
+  border: 5px solid #43cbdd;
+}
+
 .button-lg {
   padding: 2px 60px;
   width: 272px;
