@@ -236,9 +236,8 @@ a, a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* text-align: left; */
   color: #000 !important;
-  padding: 50px 0;
+  margin: 50px auto;
 }
 
 .wrapper-content {
@@ -414,7 +413,6 @@ a, a:hover {
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
-  /*background: blue;*/
   height: 400px;
   padding: 15px;
 }
@@ -460,7 +458,7 @@ a, a:hover {
   align-items: center;
   justify-content: space-evenly;
   width: 80%;
-  margin: auto;
+  margin: 50px auto;
 }
 
 .date-when,
