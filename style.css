@@ -422,6 +422,10 @@ a, a:hover {
   padding: 15px;
 }
 
+.card-grey  {
+  background-color: #F0F0F0;
+}
+
 .block-card-title {
   font-weight: 600 !important;
 }
