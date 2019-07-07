@@ -146,6 +146,7 @@ a, a:hover {
 
 .button-white a {
   color: #fff;
+  font-weight: 300;
 }
 
 .buttons-flex {
