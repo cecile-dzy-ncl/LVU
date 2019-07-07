@@ -406,6 +406,10 @@ a, a:hover {
   justify-content: space-evenly;
 }
 
+.block-4 {
+  width: 23%;
+}
+
 .block-card  {
   display: flex;
   flex-direction: column;
