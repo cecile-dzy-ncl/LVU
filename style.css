@@ -417,6 +417,10 @@ a, a:hover {
   justify-content: center;
 }
 
+.block-icon img {
+  object-fit: contain;
+}
+
 .block-join p {
   font-size: 16px;
   line-height: 22px;
