@@ -144,7 +144,8 @@ section#header-header {
 
 
 .button-blue,
-.btn-next {
+.btn-next,
+#form-contact input.button {
   padding: 2px 35px;
   background-color: #fff0;
   color: #000;
@@ -156,14 +157,16 @@ section#header-header {
 }
 
 .button-blue:hover,
-.btn-next:hover {
+.btn-next:hover,
+#form-contact input.button:hover {
   background-color: #fff0;
   color: #000;
   border: 5px solid #43cbdd;
 }
 
 .button-lg,
-.btn-next {
+.btn-next,
+#form-contact input.button {
   padding: 2px 60px;
   width: 272px;
 }
