@@ -547,9 +547,8 @@ section#header-header {
   margin: 50px auto;
 }
 
-.date-when,
 .date-start,
-.date-contact {
+.card-date {
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   display: flex;
