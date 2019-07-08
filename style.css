@@ -596,6 +596,16 @@ section#header-header {
   background-color: #053C50;
 }
 
+/* --- AUTRES PAGES --- */
+
+#events-index .habillage {
+  background: white;
+}
+
+#events-index .event-details {
+  background: #666666;
+}
+
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
