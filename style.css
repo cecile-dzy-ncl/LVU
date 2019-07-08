@@ -596,6 +596,13 @@ section#header-header {
   background-color: #053C50;
 }
 
+/* --- TUNNEL CREATION PAGE COLLECTE --- */
+
+#form-project .tabs a,
+#form-project .tabs .active a {
+  background-color: #000;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
