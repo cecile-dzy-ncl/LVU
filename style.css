@@ -598,9 +598,15 @@ section#header-header {
 
 /* --- TUNNEL CREATION PAGE COLLECTE --- */
 
+dl#step_tab {
+    margin-top: 30px;
+}
+
 #form-project .tabs a,
 #form-project .tabs .active a {
   background-color: #000;
+  letter-spacing: 0.7px;
+  font-size: 14px;
 }
 
 /* --- AUTRES PAGES --- */
