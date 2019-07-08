@@ -445,6 +445,18 @@ section#header-header {
   width: 753px;
 }
 
+.block-sm .block-row {
+  justify-content: space-between;
+}
+
+.block-sm .block-card {
+    width: 48%;
+}
+
+.block-sm .block-join-line {
+  height: 270px;
+}
+
 .block-4 {
   width: 23%;
 }
