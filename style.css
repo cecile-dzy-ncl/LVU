@@ -609,6 +609,16 @@ dl#step_tab {
   font-size: 14px;
 }
 
+.tabs-content p {
+  font-weight: 600 !important;
+}
+
+#projects-new #form-project input,
+#projects-new #form-project select {
+  border: 1px solid black;
+  background: white;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
