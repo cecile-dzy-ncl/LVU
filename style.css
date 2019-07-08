@@ -468,6 +468,10 @@ section#header-header {
   text-align: left !important;
 }
 
+.block-sm span {
+  font-weight: 600 !important;
+}
+
 .block-4 {
   width: 23%;
 }
