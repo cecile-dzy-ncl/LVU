@@ -622,7 +622,7 @@ dl#step_tab {
 #projects-new #form-project input,
 #projects-new #form-project select,
 #contact_forms-new #form-contact input,
-#contact_forms-new #form-contact select {
+#contact_forms-new #form-contact textarea {
   border: 1px solid black;
   background: white;
 }
