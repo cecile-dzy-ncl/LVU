@@ -626,6 +626,11 @@ dl#step_tab {
 
 #contact_forms-new h1 {
   text-transform: uppercase;
+  margin: 30px;
+}
+
+#contact_forms-new p {
+  margin-bottom: 30px;
 }
 
 /* --- AUTRES PAGES --- */
