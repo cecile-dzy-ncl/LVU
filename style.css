@@ -155,6 +155,7 @@ section#header-header {
   letter-spacing: 0.6px;
   line-height: 32px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .button-blue:hover,
@@ -180,6 +181,7 @@ section#header-header {
   letter-spacing: 0.6px;
   line-height: 32px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .button-white a {
