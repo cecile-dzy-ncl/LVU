@@ -438,6 +438,10 @@ section#header-header {
   justify-content: space-evenly;
 }
 
+.block-sm {
+  width: 753px;
+}
+
 .block-4 {
   width: 23%;
 }
