@@ -606,6 +606,11 @@ section#header-header {
   background: #666666;
 }
 
+.page-see {
+  color: #6dd7e5;
+}
+
+
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
