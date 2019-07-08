@@ -162,7 +162,8 @@ section#header-header {
   border: 5px solid #43cbdd;
 }
 
-.button-lg {
+.button-lg,
+.btn-next {
   padding: 2px 60px;
   width: 272px;
 }
