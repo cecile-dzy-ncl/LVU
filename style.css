@@ -457,6 +457,12 @@ section#header-header {
   height: 270px;
 }
 
+.block-sm .block-card-title {
+  color: #6ED7E5;
+  font-size: 24px;
+  letter-spacing: 1.2px;
+}
+
 .block-4 {
   width: 23%;
 }
