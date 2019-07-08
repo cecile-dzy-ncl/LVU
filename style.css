@@ -456,6 +456,7 @@ section#header-header {
 
 .block-sm .block-join-line {
   height: 270px;
+  margin: 0 50px;
 }
 
 .block-sm .block-card-title {
