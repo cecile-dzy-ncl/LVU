@@ -165,8 +165,7 @@ section#header-header {
 }
 
 .button-lg,
-.btn-next,
-#form-contact input.button {
+.btn-next {
   padding: 2px 60px !important;
   width: 272px;
 }
