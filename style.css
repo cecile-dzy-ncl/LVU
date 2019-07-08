@@ -165,7 +165,8 @@ section#header-header {
   width: 272px;
 }
 
-.button-white {
+.button-white,
+.btn-next {
   padding: 2px 35px;
   background-color: #fff0;
   color: #fff;
