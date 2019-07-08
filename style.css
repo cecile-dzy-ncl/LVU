@@ -622,6 +622,12 @@ dl#step_tab {
   background: white;
 }
 
+/* --- CONTACT --- */
+
+#contact_forms-new h1 {
+  text-transform: uppercase;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
