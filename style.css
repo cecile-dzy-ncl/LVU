@@ -48,6 +48,10 @@ a, a:hover {
   text-decoration: none;
 }
 
+.span-blue {
+  color: #6ed7e5;
+}
+
 /* --- OVERWRITE IRAISER --- */
 
 #indexs-index .intro {
