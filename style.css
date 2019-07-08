@@ -449,6 +449,10 @@ section#header-header {
   width: 753px;
 }
 
+.block-grey-sm .block-row {
+    width: 90%;
+}
+
 .block-sm .block-row {
   justify-content: space-between;
 }
