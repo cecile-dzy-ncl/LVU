@@ -450,7 +450,8 @@ section#header-header {
 }
 
 .block-sm .block-card {
-    width: 48%;
+  width: 48%;
+  align-items: baseline;
 }
 
 .block-sm .block-join-line {
@@ -461,6 +462,10 @@ section#header-header {
   color: #6ED7E5;
   font-size: 24px;
   letter-spacing: 1.2px;
+}
+
+.block-sm p {
+  text-align: left !important;
 }
 
 .block-4 {
