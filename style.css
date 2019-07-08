@@ -146,10 +146,10 @@ section#header-header {
 .button-blue,
 .btn-next,
 #form-contact input.button {
-  padding: 2px 35px;
-  background-color: #fff0;
+  padding: 2px 35px !important;
+  background-color: #fff0 !important;
   color: #000;
-  border: 5px solid #6ED7E5;
+  border: 5px solid #6ED7E5 !important;
   font-size: 12px;
   letter-spacing: 0.6px;
   line-height: 32px;
@@ -167,7 +167,7 @@ section#header-header {
 .button-lg,
 .btn-next,
 #form-contact input.button {
-  padding: 2px 60px;
+  padding: 2px 60px !important;
   width: 272px;
 }
 
