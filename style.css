@@ -55,6 +55,7 @@ a, a:hover {
 
 .span-blue {
   color: #6ed7e5;
+  text-transform: uppercase;
 }
 
 /* --- OVERWRITE IRAISER --- */
