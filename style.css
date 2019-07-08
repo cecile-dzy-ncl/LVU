@@ -637,6 +637,10 @@ dl#step_tab {
   margin-bottom: 30px;
 }
 
+.g-recaptcha {
+    margin-bottom: 30px;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
