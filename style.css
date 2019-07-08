@@ -441,6 +441,10 @@ section#header-header {
   justify-content: space-evenly;
 }
 
+.block-grey-sm {
+  height: 300px;
+}
+
 .block-sm {
   width: 753px;
 }
