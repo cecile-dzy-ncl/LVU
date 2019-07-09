@@ -314,10 +314,7 @@ section.connexion input.button:hover {
 }
 
 .wrapper-description .wrapper-content h1 {
-  padding: 0 0 45px 0;
-  font-size: 53px;
-  letter-spacing: 1.8px;
-  /* line-height: 24px; */
+  padding: 0 0 50px 0;
 }
 
 .wrapper-description .wrapper-content p {
