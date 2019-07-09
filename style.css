@@ -270,7 +270,7 @@ section.connexion input.button:hover {
 
 .wrapper-help {
   width: 100%;
-  height: 300px;
+  padding: 25px 0;
   background-color: #053C50;
   display: flex;
   justify-content: center;
@@ -284,6 +284,7 @@ section.connexion input.button:hover {
   color: #fff;
   font-size: 24px;
   letter-spacing: 1.2px;
+  padding: 20px 0;
 }
 
 .wrapper-description {
