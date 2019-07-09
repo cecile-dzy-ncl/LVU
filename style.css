@@ -556,6 +556,7 @@ section.connexion input.button:hover {
   width: 176px;
   display: flex;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 .block-icon img {
