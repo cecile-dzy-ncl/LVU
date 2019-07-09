@@ -659,14 +659,15 @@ section.connexion input.button:hover {
   background-color: #F0F0F0;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
-  padding: 75px;
+  padding: 75px 150px;
 }
 
-.camp-description p {
-  margin: 0 45px;
+.camp-description h3 {
+  padding: 20px 0;
 }
+
 
 
 /* --- ABOUT --- */
