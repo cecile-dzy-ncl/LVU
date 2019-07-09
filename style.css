@@ -581,6 +581,7 @@ section.connexion input.button:hover {
   height: 230px;
   border-left: 0.5px solid #303333;
   background-color: rgba(0,0,0,0);
+  width: 1px;
 }
 
 .bloc-dates {
