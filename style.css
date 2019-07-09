@@ -661,7 +661,7 @@ section.connexion input.button:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 75px 150px;
+  padding: 75px 100px;
 }
 
 .camp-description h5 {
