@@ -226,6 +226,7 @@ section.connexion input.button:hover {
   text-align: center;
   color: #fff;
   background-position: center;
+  flex-direction: column;
 }
 
 .banner-about {
@@ -260,7 +261,7 @@ section.connexion input.button:hover {
 
 .banner-text {
   width: 900px;
-  margin: 0 auto 110px auto;
+  margin: 110px auto 100px auto;
   color: #fff;
 }
 
