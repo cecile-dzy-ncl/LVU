@@ -196,6 +196,10 @@ section.connexion input.button:hover {
   font-weight: 300;
 }
 
+.wrapper-help .button-white {
+  margin-top: 10px;
+}
+
 .buttons-flex {
   display: flex;
   justify-content: space-evenly;
@@ -270,7 +274,7 @@ section.connexion input.button:hover {
 
 .wrapper-help {
   width: 100%;
-  padding: 25px 0;
+  padding: 35px 0;
   background-color: #053C50;
   display: flex;
   justify-content: center;
