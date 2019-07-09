@@ -43,7 +43,7 @@ p {
 
 a {
   color: #6ED7E5;
-  font-weight: 600;
+  font-weight: 300;
 }
 
 a:hover {
@@ -219,6 +219,7 @@ section.connexion input.button:hover {
   align-items: flex-end;
   text-align: center;
   color: #fff;
+  background-position: center;
 }
 
 .banner-about {
