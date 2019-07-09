@@ -210,7 +210,7 @@ section.connexion input.button:hover {
   display: flex;
   justify-content: space-evenly;
   width: 100%;
-  margin: 4% auto 8% auto;
+  margin: 4% auto 0% auto;
 }
 
 /* --- BANNERS --- */
