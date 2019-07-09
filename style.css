@@ -625,7 +625,7 @@ section.connexion input.button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 573px;
+  height: 600px;
   width: 80%;
   margin: 100px auto;
 }
