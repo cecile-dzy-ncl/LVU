@@ -739,6 +739,11 @@ dl#step_tab {
   color: #6dd7e5;
 }
 
+/* --- FOOTER --- */
+
+footer {
+  background-color: #282828;
+}
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
