@@ -394,7 +394,7 @@ section.connexion input.button:hover {
 
 .block-images {
   height: 770px;
-  width: 80%;
+  width: 1146px;
   margin: auto;
   display: flex;
   margin-top: 110px;
@@ -458,7 +458,7 @@ section.connexion input.button:hover {
 
 .block-join {
   height: auto;
-  width: 80%;
+  width: 1146px;
   margin: 50px auto;
   display: flex;
   flex-direction: column;
@@ -567,7 +567,7 @@ section.connexion input.button:hover {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  width: 80%;
+  width: 1146px;
   margin: 50px auto;
 }
 
