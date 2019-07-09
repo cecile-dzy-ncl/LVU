@@ -563,6 +563,7 @@ section.connexion input.button:hover {
 .date-start,
 .date-contact {
   display: flex;
+  padding: 5px 0;
 }
 
 .date-start,
