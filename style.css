@@ -269,6 +269,10 @@ section.connexion input.button:hover {
   color: #fff
 }
 
+.credits p {
+  margin-right: 20px;
+  font-size: 11px;
+}
 
 /* --- WRAPPERS --- */
 
