@@ -677,6 +677,10 @@ section.connexion input.button:hover {
   margin: 0;
 }
 
+.indiv-join .block-icon img {
+    object-fit: cover;
+}
+
 /* --- HOMEPAGE --- */
 
 #tag-montant {
