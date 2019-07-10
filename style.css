@@ -667,12 +667,14 @@ section.connexion input.button:hover {
 
 .indiv-join .block-card-title {
   padding: 20px 0;
+  font-size: 24px;
 }
 
 .indiv-join .block-icon {
   height: 269px;
   width: auto;
   background: none;
+  margin: 0;
 }
 
 /* --- HOMEPAGE --- */
