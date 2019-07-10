@@ -529,7 +529,12 @@ section.connexion input.button:hover {
 }
 
 .block-diff h2 {
-  margin-top: 62px;
+  margin: 50px 0;
+}
+
+.block-diff img {
+  margin-bottom: 20px;
+  height: 60px;
 }
 
 .block-card  {
