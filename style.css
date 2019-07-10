@@ -775,6 +775,10 @@ dl#step_tab {
   margin: 50px auto;
 }
 
+.project-thumbnails {
+  object-fit: cover;
+}
+
 #my-profile .small-9 h1, #my-profile .small-9 p {
   text-align: left !important;
 }
