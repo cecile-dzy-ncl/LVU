@@ -655,6 +655,11 @@ section.connexion input.button:hover {
   border-bottom: none;
 }
 
+.indiv-join .block-icon {
+  height: 269px;
+  width: auto;
+}
+
 /* --- HOMEPAGE --- */
 
 #tag-montant {
