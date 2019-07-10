@@ -655,6 +655,12 @@ section.connexion input.button:hover {
   border-bottom: none;
 }
 
+.indiv-join .block-card {
+  background: #f0f0f0;
+  padding: 0;
+  margin: 0px 15px;
+}
+
 .indiv-join .block-icon {
   height: 269px;
   width: auto;
