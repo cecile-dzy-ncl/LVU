@@ -599,6 +599,13 @@ section.connexion input.button:hover {
   padding: 5px 0;
 }
 
+
+.date-when p,
+.date-start p,
+.date-contact p {
+  padding: 0 !important;
+}
+
 .date-start,
 .card-date {
   border-top: 1px solid black;
@@ -753,7 +760,7 @@ dl#step_tab {
   color: #6dd7e5;
 }
 
-/* --- FOOTER --- */
+/* --- PROFILE --- */
 
 #my-profile .tabs a {
   background-color: #6ed7e5 !important;
