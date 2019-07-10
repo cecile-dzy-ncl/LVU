@@ -665,6 +665,10 @@ section.connexion input.button:hover {
   padding: 0 20px;
 }
 
+.indiv-join .block-card-title {
+  padding: 20px 0;
+}
+
 .indiv-join .block-icon {
   height: 269px;
   width: auto;
