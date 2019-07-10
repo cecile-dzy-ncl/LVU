@@ -672,6 +672,7 @@ section.connexion input.button:hover {
 .indiv-join .block-icon {
   height: 269px;
   width: auto;
+  background: none;
 }
 
 /* --- HOMEPAGE --- */
