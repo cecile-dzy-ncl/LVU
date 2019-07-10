@@ -657,7 +657,7 @@ section.connexion input.button:hover {
 
 .indiv-join .block-card {
   background: #f0f0f0;
-  padding: 0;
+  padding: 0 0 30px 0;
   margin: 0px 15px;
 }
 
