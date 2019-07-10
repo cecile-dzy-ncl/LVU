@@ -647,7 +647,7 @@ section.connexion input.button:hover {
 
 .worldwide .date-start {
   padding: 10px 0px;
-  border: none;
+  border-bottom: none;
 }
 
 /* --- HOMEPAGE --- */
