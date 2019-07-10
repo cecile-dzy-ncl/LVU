@@ -755,6 +755,33 @@ dl#step_tab {
 
 /* --- FOOTER --- */
 
+#my-profile .tabs a {
+  background-color: #6ed7e5 !important;
+}
+
+.badge {
+  color: #6ed7e5;
+}
+
+.tabs-content {
+  width: 1000px;
+  margin: 50px auto;
+}
+
+#my-profile .small-9 h1, #my-profile .small-9 p {
+  text-align: left !important;
+}
+
+#my-profile .subhead .small-3 {
+  margin-left: 170px;
+}
+
+#my-profile .subhead .small-9 {
+  width: 60%;
+}
+
+/* --- FOOTER --- */
+
 footer {
   background-color: #282828;
 }
