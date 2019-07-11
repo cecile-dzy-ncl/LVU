@@ -113,6 +113,10 @@ section#header-header {
   font-weight: 300 !important;
 }
 
+.bg-primary-color {
+    background-color: #6ed7e5 !important;
+}
+
 /* --- MENU --- */
 
 .row-1 {
