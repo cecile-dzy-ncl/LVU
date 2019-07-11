@@ -1018,6 +1018,11 @@ footer {
   background-color: #282828;
 }
 
+footer .top-bar-section li:not(.has-form) a:not(.button) {
+    background-color: #282828 !important;
+    color: white !important;
+}
+
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
