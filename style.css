@@ -164,13 +164,13 @@ img.logo {
 }
 
 #main-nav section.top-bar-section li:not(:last-child):after {
-    background: red !important;
-    content: '';
-    height: 10px;
-    width: 8px;
-    position: absolute;
-    bottom: 0;
-    left: 0;
+  background: #000 !important;
+  content: '';
+  height: 25px;
+  width: 1px;
+  position: absolute;
+  bottom: 10px;
+  right: 0;
 }
 
 
