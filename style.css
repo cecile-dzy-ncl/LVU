@@ -117,6 +117,10 @@ section#header-header {
     background-color: #6ed7e5 !important;
 }
 
+.bg-secondary-color-blurred {
+    background-color: rgba(240,240,240);
+}
+
 /* --- MENU --- */
 
 .row-1 {
