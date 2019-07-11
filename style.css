@@ -845,7 +845,8 @@ section.section-projet-details .infos-money .chart-wrap .percent {
     background: white !important;
 }
 
-.project_event_description.columns .wrapper-description {
+.project_event_description.columns .wrapper-description,
+.project_event_description.columns .wrapper-content {
     background: #fff0;
     width: 960px;
 }
