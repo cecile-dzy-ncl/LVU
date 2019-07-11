@@ -166,10 +166,10 @@ img.logo {
 #main-nav section.top-bar-section li:not(:last-child):after {
   background: #000 !important;
   content: '';
-  height: 25px;
+  height: 22px;
   width: 1px;
   position: absolute;
-  bottom: 10px;
+  bottom: 11px;
   right: 0;
 }
 
