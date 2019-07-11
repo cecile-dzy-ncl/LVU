@@ -1009,6 +1009,14 @@ p#show_desired_amount {
     text-align: left !important;
 }
 
+.event-details .medium-7 {
+    width: 70%;
+}
+
+.event-details .medium-4 {
+    width: 29%;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
