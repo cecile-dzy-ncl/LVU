@@ -305,7 +305,7 @@ section.connexion input.button:hover,
   color: #fff
 }
 
-.credits p {
+.banner-homepage .credits p {
   margin-right: 20px;
   font-size: 11px;
 }
