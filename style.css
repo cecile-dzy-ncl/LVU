@@ -304,6 +304,10 @@ section.connexion input.button:hover,
   color: #000 !important;
 }
 
+.wrapper-exemples .wrapper-content {
+    width: 1146px;
+}
+
 .wrapper-exemples h4 {
     color: #000;
     font-size: 24px;
