@@ -990,7 +990,8 @@ p#show_desired_amount {
   background: #666666;
 }
 
-.page-see {
+.page-see,
+.page-see:hover {
   color: #6dd7e5;
 }
 
