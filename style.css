@@ -994,6 +994,10 @@ p#show_desired_amount {
   color: #6dd7e5;
 }
 
+#events-index .event-details {
+    background: #f0f0f0;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
