@@ -809,6 +809,21 @@ dl#step_tab {
     background-color: #6ed7e5;
 }
 
+div#home {
+    padding: 0 !important;
+}
+
+#home h1 {
+  font-size: 30px;
+  line-height: 34px;
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+#home p {
+    text-align: left;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
