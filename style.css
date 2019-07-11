@@ -1003,6 +1003,12 @@ p#show_desired_amount {
     color: #000;
 }
 
+.event-description h3,
+.event-description p,
+.event-description .infos {
+    text-align: left !important;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
