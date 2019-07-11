@@ -157,7 +157,8 @@ img.logo {
 .btn-next,
 #form-contact input.button,
 .top-bar-section .button.left,
-section.connexion input.button {
+section.connexion input.button,
+.button {
   padding: 2px 35px !important;
   background-color: #fff0 !important;
   color: #000;
@@ -173,7 +174,8 @@ section.connexion input.button {
 .btn-next:hover,
 #form-contact input.button:hover,
 .top-bar-section .button.left:hover,
-section.connexion input.button:hover {
+section.connexion input.button:hover,
+.button:hover {
   background-color: #fff0;
   color: #000;
   border: 5px solid #43cbdd;
