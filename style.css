@@ -885,6 +885,14 @@ p#show_desired_amount {
     text-align: left !important;
 }
 
+.project-detail-data {
+    padding-top: 20px !important;
+}
+
+.social-btns {
+    margin: 0 !important;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
