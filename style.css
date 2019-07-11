@@ -850,6 +850,15 @@ section.section-projet-details .infos-money .chart-wrap .percent {
     width: 960px;
 }
 
+.fa-gift {
+    display: none;
+}
+
+.project_boutons_give {
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 300 !important;
+}
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
