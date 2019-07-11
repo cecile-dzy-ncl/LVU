@@ -802,6 +802,11 @@ dl#step_tab {
     background: white;
 }
 
+.tabs dd.active a,
+.projet-tabs .content .top-bar-section ul li > a.button {
+    background-color: #6ed7e5;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
