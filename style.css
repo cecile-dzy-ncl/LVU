@@ -779,7 +779,11 @@ section.connexion input.button:hover,
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 75px 100px;
+  padding: 0 100px;
+}
+
+.camp-description p {
+    padding-bottom: 0;
 }
 
 .camp-description h5 {
