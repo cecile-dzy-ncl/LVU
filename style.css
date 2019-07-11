@@ -318,6 +318,8 @@ section.connexion input.button:hover,
 
 .wrapper-exemples img {
     height: 459px;
+    width: 25%;
+    object-fit: contain;
 }
 
 .wrapper-help {
