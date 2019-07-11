@@ -796,6 +796,12 @@ dl#step_tab {
     margin-bottom: 30px;
 }
 
+/* --- PAGE COLLECTE --- */
+
+.projet-head {
+    background: white;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
