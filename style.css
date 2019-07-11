@@ -678,6 +678,11 @@ section.connexion input.button:hover,
   text-align: left;
 }
 
+.label-flag {
+    width: 30px;
+    margin-left: 18px;
+}
+
 .date-start .date-info {
   font-size: 16px;
 }
