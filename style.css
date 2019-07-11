@@ -839,6 +839,15 @@ fi-clock {
     margin-top: -20px;
 }
 
+#project_tabs .bg-color-light {
+    background: white !important;
+}
+
+.project_event_description.columns .wrapper-description {
+    background: #fff0;
+    width: 960px;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
