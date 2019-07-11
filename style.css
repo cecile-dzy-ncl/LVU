@@ -821,7 +821,11 @@ section.connexion input.button:hover,
   color: #000 !important;
 }
 
-
+.c-lvu-home .camp-description {
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 75px;
+}
 
 /* --- ABOUT --- */
 
