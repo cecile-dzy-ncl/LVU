@@ -870,6 +870,18 @@ h1#show_title {
 .user.right {
     margin-right: 10px;
 }
+
+p.current-amount {
+    font-size: 50px !important;
+    font-weight: 600 !important;
+    text-align: left !important;
+    padding: 0 !important;
+}
+
+p#show_desired_amount {
+    text-align: left !important;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
