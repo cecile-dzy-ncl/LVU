@@ -833,6 +833,12 @@ fi-clock {
     color: #000;
 }
 
+.group_edit_project {
+    float: right;
+    font-size: 15px;
+    margin-top: -20px;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
