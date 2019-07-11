@@ -803,7 +803,9 @@ dl#step_tab {
 }
 
 .tabs dd.active a,
-.projet-tabs .content .top-bar-section ul li > a.button {
+.projet-tabs .content .top-bar-section ul li > a.button,
+.manage-links a,
+.fix-delete-button {
     background-color: #6ed7e5;
 }
 
