@@ -861,6 +861,9 @@ section.section-projet-details .infos-money .chart-wrap .percent {
     text-transform: uppercase;
     color: #000 !important;
     font-weight: 300 !important;
+    height: 50px !important;
+    min-height: 50px !important;
+    padding: 4px !important;
 }
 
 h1#show_title {
