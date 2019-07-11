@@ -755,7 +755,7 @@ section.connexion input.button:hover,
   align-items: center;
   height: 573px;
   width: 1146px;
-  margin: 100px auto;
+  margin: 0px auto 100px auto;
 }
 
 .camp-photo {
