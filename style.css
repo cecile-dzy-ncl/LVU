@@ -1017,6 +1017,14 @@ p#show_desired_amount {
     width: 29%;
 }
 
+.daysleft, .location {
+    display: none;
+}
+
+.teamcount {
+  float: left;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
