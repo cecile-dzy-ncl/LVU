@@ -862,6 +862,14 @@ section.section-projet-details .infos-money .chart-wrap .percent {
     color: #000 !important;
     font-weight: 300 !important;
 }
+
+h1#show_title {
+    text-align: left;
+}
+
+.user.right {
+    margin-right: 10px;
+}
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
