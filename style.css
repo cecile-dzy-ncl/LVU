@@ -998,6 +998,11 @@ p#show_desired_amount {
     background: #f0f0f0;
 }
 
+.big,
+.fa-file-text-o {
+    color: #000;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
