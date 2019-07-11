@@ -824,6 +824,10 @@ div#home {
     text-align: left;
 }
 
+.bx-viewport {
+    box-shadow: none !important;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
