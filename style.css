@@ -829,7 +829,8 @@ div#home {
 }
 
 .project-detail-data p,
-fi-clock {
+.fi-clock,
+section.section-projet-details .infos-money .chart-wrap .percent {
     color: #000;
 }
 
