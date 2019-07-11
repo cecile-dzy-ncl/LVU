@@ -857,7 +857,7 @@ section.section-projet-details .infos-money .chart-wrap .percent {
 
 .project_boutons_give {
     text-transform: uppercase;
-    color: #000;
+    color: #000 !important;
     font-weight: 300 !important;
 }
 /* --- AUTRES PAGES --- */
