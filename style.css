@@ -1054,6 +1054,14 @@ p#show_desired_amount {
     width: 100%;
 }
 
+.block-share-container h4 span {
+    color: white;
+}
+
+.project_boutons_join a {
+    color: #000;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
