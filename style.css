@@ -1183,6 +1183,10 @@ footer .bottom-bar .left li:not(:last-child):after {
   right: 0;
 }
 
+.bottom-bar {
+    width: 93vw;
+}
+
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
