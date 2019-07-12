@@ -1170,5 +1170,9 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     padding: 20px 0px;
 }
 
+.block-join-line {
+    transform: rotate(90deg);
+    height: 150px;
+}
 
 }
