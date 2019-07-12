@@ -1139,6 +1139,15 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     display: none !important;
 }
 
+.bottom-bar .right li {
+    background: #282828;
+}
+
+.bottom-bar img {
+    width: 44%;
+    margin-top: 18px;
+}
+
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
