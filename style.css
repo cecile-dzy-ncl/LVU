@@ -1070,6 +1070,10 @@ p#show_days {
     padding: 0 !important;
 }
 
+.block-share-container .social-btns .social_network a .social_network_send {
+    background-color: #6ed7e4;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
