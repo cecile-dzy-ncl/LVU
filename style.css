@@ -1080,6 +1080,17 @@ p#show_days {
     background-color: #6ed7e4;
 }
 
+.caption a, .infos-money .infos-money-details .info-money.detail {
+    color: #000;
+}
+
+#projects-index h1 {
+    text-transform: uppercase;
+    color: #000;
+    text-align: left;
+    font-size: 24px;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
