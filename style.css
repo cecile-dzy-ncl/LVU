@@ -1198,7 +1198,7 @@ h1#tag-montant {
 }
 
 .block-item {
-    padding: 20px 0px;
+    padding: 20px 0px !important;
 }
 
 .block-join .block-card.block-3 {
