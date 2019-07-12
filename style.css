@@ -546,6 +546,11 @@ section.connexion input.button:hover,
   justify-content: space-evenly;
 }
 
+.block-join img {
+    object-fit: contain;
+    width: 40%;
+}
+
 .block-grey-sm {
   height: 300px;
 }
