@@ -1135,6 +1135,14 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
 .camp-description {
   width: 100%;
   height: auto;
+  padding: 20px 30px !important;
+}
+
+.camp-description .button-blue {
+    margin: 20px 0;
+    width: 85%;
+    line-height: 20px;
+    padding: 2px 20px !important;
 }
 
 .about-video,
