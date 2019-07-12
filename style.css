@@ -1005,8 +1005,9 @@ p#show_desired_amount {
 
 /* --- AUTRES PAGES --- */
 
-#events-index .habillage {
-  background: white;
+#events-index .habillage,
+#projects-index .habillage {
+    background: white !important;
 }
 
 #events-index .event-details {
