@@ -776,6 +776,7 @@ section.connexion input.button:hover,
 
 .indiv-join .block-icon img {
   object-fit: cover;
+  width: 100%;
 }
 
 .indiv-join .button-blue {
