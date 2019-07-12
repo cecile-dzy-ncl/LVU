@@ -1154,6 +1154,7 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
 .block-images {
     width: 80%;
     flex-direction: column;
+    height: auto;
 }
 
 .column-left {
@@ -1165,6 +1166,9 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     flex-direction: row;
 }
 
+.block-item {
+    padding: 20px 0px;
+}
 
 
 }
