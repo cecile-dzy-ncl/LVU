@@ -1147,7 +1147,8 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
 }
 
 .about-video,
-.block-grey {
+.block-grey,
+.wrapper-exemples {
     height: auto;
 }
 
