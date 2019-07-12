@@ -891,6 +891,11 @@ dl#step_tab {
 
 /* --- PAGE COLLECTE --- */
 
+.section-projet-details .row.collapse.bg-color-light,
+.row.project-detail-data.p2p-detail-data {
+    background: #053C50;
+}
+
 .projet-head {
     background: white;
 }
