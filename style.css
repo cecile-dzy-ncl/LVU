@@ -1062,6 +1062,10 @@ p#show_desired_amount {
     color: #000;
 }
 
+p#show_days {
+    text-align: left !important;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
