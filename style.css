@@ -1165,7 +1165,19 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     font-style: italic;
 }
 
+footer .bottom-bar .left li:not(:last-child) {
+    position: relative;
+}
 
+footer .bottom-bar .left li:not(:last-child):after {
+  background: #fff !important;
+  content: '';
+  height: 22px;
+  width: 1px;
+  position: absolute;
+  bottom: 11px;
+  right: 0;
+}
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
