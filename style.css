@@ -1142,6 +1142,10 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     width: 80%;
 }
 
+.about-video {
+    height: auto;
+}
+
 .block-images {
     width: 80%;
     flex-direction: column;
