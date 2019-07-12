@@ -994,6 +994,10 @@ p#show_desired_amount {
     font-weight: 300 !important;
 }
 
+.project_content strong {
+    font-weight: 600;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
