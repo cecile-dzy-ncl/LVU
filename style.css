@@ -1133,6 +1133,7 @@ h1#tag-montant {
 
 .banner-text h1 {
     font-size: 44px;
+    line-height: 44px;
 }
 
 .campagne {
@@ -1247,6 +1248,9 @@ h1 {
     line-height: 34px;
 }
 
+.block-grey span {
+    padding: 0px 10px;
+}
 
 
 }
