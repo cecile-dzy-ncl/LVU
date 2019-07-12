@@ -684,8 +684,8 @@ section.connexion input.button:hover,
   margin: 50px auto;
 }
 
-.bloc-dates p strong {
-    font-size: 15px;
+.bloc-dates p {
+    font-size: 13px !important;
 }
 
 .worldwide .date-info, .worldwide .date-when .date-info {
