@@ -1139,14 +1139,33 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     display: none !important;
 }
 
+.bottom-bar .right {
+    width: 23%;
+}
+
 .bottom-bar .right li {
     background: #282828;
 }
 
 .bottom-bar img {
-    width: 44%;
+    width: 52%;
     margin-top: 18px;
 }
+
+.middle {
+    width: 36%;
+    float: left;
+    padding-top: 10px;
+}
+
+.middle p {
+    font-size: 10px;
+    color: white;
+    padding: 0;
+    font-style: italic;
+}
+
+
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
