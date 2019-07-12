@@ -304,6 +304,10 @@ section.connexion input.button:hover,
   color: #fff;
 }
 
+.banner-text-fr {
+    margin: 95px auto 95px auto;
+}
+
 .banner-text p, .wrapper-help p {
   color: #fff
 }
