@@ -892,7 +892,8 @@ dl#step_tab {
 /* --- PAGE COLLECTE --- */
 
 .section-projet-details .row.collapse.bg-color-light,
-.row.project-detail-data.p2p-detail-data {
+.row.project-detail-data.p2p-detail-data,
+.block-share-container {
     background: #053C50;
 }
 
