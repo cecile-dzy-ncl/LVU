@@ -1135,14 +1135,12 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
   width: 100%;
 }
 
-.about-video {
-    width: 80%;
-}
-
+.about-video,
+.block-images,
+.block-join,
 .block-grey {
     width: 80%;
 }
-
 
 
 }
