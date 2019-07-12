@@ -1058,8 +1058,8 @@ p#show_desired_amount {
     color: white;
 }
 
-.project_boutons_join a {
-    color: #000;
+p#show_team {
+    color: #000 !important;
 }
 
 p#show_days {
