@@ -1121,6 +1121,12 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
 
 @media (max-width: 770px) {
 
+h1#tag-montant {
+    font-size: 44px;
+    margin-bottom: 15px;
+    margin-top: 50px;
+}
+
 .campagne {
   height: auto;
   flex-direction: column;
