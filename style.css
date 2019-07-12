@@ -1128,9 +1128,14 @@ footer {
   background-color: #282828;
 }
 
+
 footer .top-bar-section li:not(.has-form) a:not(.button) {
     background-color: #282828 !important;
     color: white !important;
+}
+
+.bottom-bar li:nth-child(2) a[href="/contact_forms/new"] {
+    display: none;
 }
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
