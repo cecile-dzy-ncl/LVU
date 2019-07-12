@@ -1147,4 +1147,15 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     flex-direction: column;
 }
 
+.column-left {
+    width: 80% !important;
+    flex-direction: row;
+}
+.column-right {
+    width: 70%;
+    flex-direction: row;
+}
+
+
+
 }
