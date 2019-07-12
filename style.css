@@ -1218,6 +1218,11 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     width: 100%;
 }
 
+h1 {
+    font-size: 30px;
+    line-height: 34px;
+}
+
 
 
 }
