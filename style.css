@@ -1122,17 +1122,19 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
 @media (max-width: 770px) {
 
 .campagne {
+  height: auto;
   flex-direction: column;
   width: 80%;
 }
 
 .camp-photo {
-  height: 100%;
+  height: auto;
   width: 100%;
 }
 
 .camp-description {
   width: 100%;
+  height: auto;
 }
 
 .about-video,
