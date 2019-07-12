@@ -1205,4 +1205,19 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     margin-bottom: 40px;
 }
 
+.indiv-join img {
+    width: 100%;
+}
+
+.indiv-join .button-blue {
+    width: 70%;
+    line-height: 20px;
+}
+
+.block-join .block-card.block-3 {
+    width: 100%;
+}
+
+
+
 }
