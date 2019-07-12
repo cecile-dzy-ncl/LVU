@@ -1142,6 +1142,10 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     width: 80%;
 }
 
+.wrapper-content {
+    width: 80% !important;
+}
+
 .about-video,
 .block-grey {
     height: auto;
