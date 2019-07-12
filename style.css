@@ -990,6 +990,10 @@ p#show_desired_amount {
     margin: 0 !important;
 }
 
+.tabs-content p {
+    font-weight: 300 !important;
+}
+
 /* --- AUTRES PAGES --- */
 
 #events-index .habillage {
