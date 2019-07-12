@@ -1134,8 +1134,9 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
     color: white !important;
 }
 
+.bottom-bar li:nth-child(1) a[href="#"],
 .bottom-bar li:nth-child(2) a[href="/contact_forms/new"] {
-    display: none;
+    display: none !important;
 }
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
