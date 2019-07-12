@@ -1031,6 +1031,14 @@ p#show_desired_amount {
   float: left;
 }
 
+.projects-show-team .projet-head .medium-2 {
+    display: none;
+}
+
+.projects-show-team .projet-head .medium-10 {
+    float: left;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
