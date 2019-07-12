@@ -1051,6 +1051,7 @@ p#show_desired_amount {
 
 .projects-show-team .projet-head .medium-10 {
     float: left;
+    width: 100%;
 }
 
 /* --- PROFILE --- */
