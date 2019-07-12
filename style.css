@@ -1127,6 +1127,14 @@ h1#tag-montant {
     margin-top: 50px;
 }
 
+.banner-text {
+    width: 90%;
+}
+
+.banner-text h1 {
+    font-size: 44px;
+}
+
 .campagne {
   height: auto;
   flex-direction: column;
