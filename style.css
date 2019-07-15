@@ -707,7 +707,7 @@ section.connexion input.button:hover,
 }
 
 .block-join p {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 22px;
   font-weight: 300;
   letter-spacing: 0.48px;
@@ -736,7 +736,7 @@ section.connexion input.button:hover,
 }
 
 .bloc-dates p {
-    font-size: 13px !important;
+    font-size: 15px !important;
 }
 
 .worldwide .date-info, .worldwide .date-when .date-info {
