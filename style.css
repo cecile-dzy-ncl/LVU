@@ -119,6 +119,8 @@ a, a:hover {
 .top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a
 .top-bar-section a.active {
   font-weight: 600 !important;
+  font-family: 'LouisVuitton-Regular';
+
 }
 
 .row.bg-color-light-blurred.first-section {
@@ -446,12 +448,14 @@ section.connexion input.button:hover,
 
 .wrapper-content span {
   font-weight: 600;
+  font-family: 'LouisVuitton-Regular';
 }
 
 .wrapper-content p a {
   color: #fff !important;
   text-decoration: underline;
   font-weight: 600;
+  font-family: 'LouisVuitton-Regular';
 }
 
 .wrapper-about {
@@ -468,6 +472,7 @@ section.connexion input.button:hover,
   font-weight: 600;
   letter-spacing: 0.72px;
   line-height: 29px;
+  font-family: 'LouisVuitton-Regular';
 }
 
 /* --- BLOCKS --- */
@@ -500,6 +505,7 @@ section.connexion input.button:hover,
 
 .block-item span, .block-grey h2 {
   font-weight: 600 !important;
+  font-family: 'LouisVuitton-Regular';
 }
 
 .block-images {
@@ -562,6 +568,7 @@ section.connexion input.button:hover,
 
 .block-join h2 {
   font-weight: 600 !important;
+  font-family: 'LouisVuitton-Regular';
   color: #000;
   margin-bottom: 35px;
 }
@@ -623,6 +630,7 @@ section.connexion input.button:hover,
 
 .block-sm span {
   font-weight: 600 !important;
+  font-family: 'LouisVuitton-Regular';
 }
 
 .block-4 {
@@ -661,6 +669,7 @@ section.connexion input.button:hover,
 
 .block-card-title {
   font-weight: 600 !important;
+  font-family: 'LouisVuitton-Regular';
 }
 
 .block-icon {
@@ -747,6 +756,7 @@ section.connexion input.button:hover,
 .date-info {
   font-size: 18px;
   font-weight: 600;
+  font-family: 'LouisVuitton-Regular';
   line-height: 24px;
   text-align: left;
 }
@@ -816,6 +826,7 @@ section.connexion input.button:hover,
   font-family: Montserrat;
   font-size: 92px;
   font-weight: 600 !important;
+  font-family: 'LouisVuitton-Regular';
   letter-spacing: 4.6px;
   line-height: 48px;
   text-align: center;
@@ -894,6 +905,7 @@ dl#step_tab {
 
 .tabs-content p {
   font-weight: 600 !important;
+  font-family: 'LouisVuitton-Regular';
 }
 
 #projects-new #form-project input,
@@ -1007,6 +1019,7 @@ p.current-amount {
     font-weight: 600 !important;
     text-align: left !important;
     padding: 0 !important;
+    font-family: 'LouisVuitton-Regular';
 }
 
 p#show_desired_amount {
@@ -1027,6 +1040,8 @@ p#show_desired_amount {
 
 .project_content strong {
     font-weight: 600;
+    font-family: 'LouisVuitton-Regular';
+
 }
 
 /* --- AUTRES PAGES --- */
