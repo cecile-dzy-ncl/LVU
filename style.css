@@ -217,6 +217,9 @@ img.logo {
   right: 0;
 }
 
+#main-nav section.top-bar-section li:not(:first-child):after {
+  content: none;
+}
 
 /* --- BOUTONS --- */
 
