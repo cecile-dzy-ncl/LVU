@@ -21,14 +21,14 @@
 /* ------------------- FONTS ------------------- */
 
 body {
-  font-family: 'LouisVuitton-Regular' !important;
+  font-family: 'LouisVuitton-Light' !important;
   font-weight: 300 !important;
   /*font-style: normal !important;*/
   margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6, p, button {
-  font-family: 'LouisVuitton-Regular' !important;
+  font-family: 'LouisVuitton-Light' !important;
   font-weight: 300 !important;
   /*font-style: normal !important;*/
   text-align: center;
