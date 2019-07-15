@@ -12,6 +12,12 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'LouisVuitton-Medium';
+  src: url('https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Medium.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 
