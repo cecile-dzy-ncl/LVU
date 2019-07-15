@@ -59,6 +59,7 @@ h2 {
 h5 {
   font-size: 23px;
   font-weight: 500 !important;
+  font-family: 'LouisVuitton-Medium' !important;
   margin: 0;
 }
 
@@ -125,7 +126,7 @@ a, a:hover {
 .top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a
 .top-bar-section a.active {
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium';
+  font-family: 'LouisVuitton-Medium' !important;
 
 }
 
@@ -321,7 +322,7 @@ section.connexion input.button:hover,
 
 .banner-homepage h1 {
   color: #FFFFFF;
-  font-family: 'LouisVuitton-Light';
+  font-family: 'LouisVuitton-Light' !important;
   font-size: 96px;
   line-height: 80px;
   text-align: center;
