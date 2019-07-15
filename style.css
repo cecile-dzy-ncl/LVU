@@ -221,7 +221,7 @@ section.connexion input.button,
   background-color: #fff0 !important;
   color: #000 !important;
   border: 5px solid #6ED7E5 !important;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 0.6px;
   line-height: 32px;
   text-align: center;
@@ -250,7 +250,7 @@ section.connexion input.button:hover,
   background-color: #fff0;
   color: #fff;
   border: 5px solid #fff;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 0.6px;
   line-height: 32px;
   text-align: center;
