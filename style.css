@@ -123,11 +123,14 @@ a, a:hover {
   color: #000;
 }
 
+.top-bar-section li:not(.has-form) a:not(.button) {
+  font-family: 'LouisVuitton-Light' !important;
+}
+
 .top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a
 .top-bar-section a.active {
   font-weight: 600 !important;
   font-family: 'LouisVuitton-Medium' !important;
-
 }
 
 .row.bg-color-light-blurred.first-section {
