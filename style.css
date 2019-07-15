@@ -1,7 +1,9 @@
-
-
-
-
+@font-face {
+  font-family: 'LouisVuitton-Regular';
+  src: url('https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 
@@ -14,7 +16,7 @@
 /* ------------------- FONTS ------------------- */
 
 body {
-  font-family: "Montserrat" !important;
+  font-family: 'LouisVuitton-Regular' !important;
   font-weight: 300 !important;
   /*font-style: normal !important;*/
   margin: 0;
