@@ -152,6 +152,10 @@ section#header-header {
   box-shadow: none !important;
 }
 
+.top-bar li a {
+    font-size: 15px !important;
+}
+
 .top-bar-section a {
   color: #000 !important;
   letter-spacing: 0.7px;
