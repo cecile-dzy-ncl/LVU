@@ -1069,6 +1069,7 @@ section.section-projet-details .infos-money .chart-wrap .percent {
   height: 50px !important;
   min-height: 50px !important;
   padding: 4px !important;
+  font-family: 'LouisVuitton-Medium' !important;
 }
 
 h1#show_title {
