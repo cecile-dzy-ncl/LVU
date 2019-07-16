@@ -1448,21 +1448,25 @@ footer .bottom-bar .left li:not(:last-child):after {
 
   #projects-show .wrapper-description {
     width: 80% !important;
-}
+  }
 
-#projects-show .notifications_intro {
+  #projects-show .notifications_intro {
     width: 250px;
     left: 15%;
     margin-left: 0;
-}
+  }
 
-#projects-show .wrapper-content img {
+  #projects-show .wrapper-content img {
     object-fit: contain;
-}
+  }
 
-.project_boutons_give {
+  .project_boutons_give {
     font-size: 20px !important;
     padding: 11px 0 !important;
-}
+  }
+
+  p#show_days, p#show_desired_amount, .current-amount {
+    text-align: center !important;
+  }
 
 }
