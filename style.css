@@ -1,3 +1,5 @@
+/* ------------------- FONTS ------------------- */
+
 @font-face {
   font-family: 'LouisVuitton-Regular';
   src: url('https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Regular.otf') format('opentype');
@@ -21,10 +23,7 @@
 
 
 
-
-
-
-/* ------------------- FONTS ------------------- */
+/* ------------------- STYLE ------------------- */
 
 body {
   font-family: 'LouisVuitton-Light' !important;
@@ -102,6 +101,10 @@ a, a:hover {
 }
 
 /* --- OVERWRITE IRAISER --- */
+
+div#wrapper {
+    background: white;
+}
 
 #indexs-index .intro {
   padding: 0;
@@ -205,6 +208,10 @@ img.logo {
   padding-top: 40px;
   object-fit: contain;
   padding-right: 20px;
+}
+
+#main-nav section.top-bar-section li:last-child {
+    background: #6ed7e5;
 }
 
 #main-nav section.top-bar-section li:not(:last-child) {
