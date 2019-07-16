@@ -103,7 +103,7 @@ a, a:hover {
 /* --- OVERWRITE IRAISER --- */
 
 div#wrapper {
-    background: white;
+  background: white;
 }
 
 #indexs-index .intro {
@@ -156,7 +156,7 @@ section#header-header {
 }
 
 .top-bar li a {
-    font-size: 15px !important;
+  font-size: 15px !important;
 }
 
 .top-bar-section a {
@@ -166,11 +166,11 @@ section#header-header {
 }
 
 .bg-primary-color {
-    background-color: #6ed7e5 !important;
+  background-color: #6ed7e5 !important;
 }
 
 .bg-secondary-color-blurred {
-    background-color: rgba(240,240,240);
+  background-color: rgba(240,240,240);
 }
 
 /* --- MENU --- */
@@ -211,7 +211,7 @@ img.logo {
 }
 
 #main-nav section.top-bar-section li:last-child {
-    background: #6ed7e5;
+  background: #6ed7e5;
 }
 
 #main-nav section.top-bar-section li:nth-child(6):after {
@@ -219,7 +219,7 @@ img.logo {
 }
 
 #main-nav section.top-bar-section li:not(:last-child) {
-    position: relative;
+  position: relative;
 }
 
 #main-nav section.top-bar-section li:not(:last-child):after {
@@ -310,7 +310,7 @@ section.connexion input.button:hover,
 }
 
 .button-blue a {
-    color: #000;
+  color: #000;
 }
 
 /* --- BANNERS --- */
@@ -372,7 +372,7 @@ section.connexion input.button:hover,
 }
 
 .banner-text-fr {
-    margin: 95px auto 95px auto;
+  margin: 95px auto 95px auto;
 }
 
 .banner-text p, .wrapper-help p {
@@ -393,9 +393,9 @@ section.connexion input.button:hover,
 }
 
 .credits p {
-    margin-right: 20px;
-    font-size: 11px;
-    color: #fff;
+  margin-right: 20px;
+  font-size: 11px;
+  color: #fff;
 }
 
 
@@ -414,22 +414,22 @@ section.connexion input.button:hover,
 }
 
 .wrapper-exemples .wrapper-content {
-    width: 1146px;
+  width: 1146px;
 }
 
 .wrapper-exemples h4 {
-    color: #000;
-    font-size: 24px;
-    letter-spacing: 1.2px;
+  color: #000;
+  font-size: 24px;
+  letter-spacing: 1.2px;
 }
 
 .wrapper-exemples img {
-    height: 459px;
-    object-fit: contain;
+  height: 459px;
+  object-fit: contain;
 }
 
 .wrapper-exemples .exemple {
-    margin: 0 15px;
+  margin: 0 15px;
 }
 
 .wrapper-help {
@@ -626,8 +626,8 @@ section.connexion input.button:hover,
 }
 
 .block-join img {
-    object-fit: contain;
-    width: 40%;
+  object-fit: contain;
+  width: 40%;
 }
 
 .block-grey-sm {
@@ -639,7 +639,7 @@ section.connexion input.button:hover,
 }
 
 .block-grey-sm .block-row {
-    width: 90%;
+  width: 90%;
 }
 
 .block-sm .block-row {
@@ -759,12 +759,12 @@ section.connexion input.button:hover,
 }
 
 .bloc-dates p {
-    font-size: 15px !important;
+  font-size: 15px !important;
 }
 
 .worldwide .date-info, .worldwide .date-when .date-info {
-    text-align: center !important;
-    margin: auto;
+  text-align: center !important;
+  margin: auto;
 }
 
 .date-when,
@@ -805,8 +805,8 @@ section.connexion input.button:hover,
 }
 
 .label-flag {
-    width: 30px;
-    margin-left: 18px;
+  width: 30px;
+  margin-left: 18px;
 }
 
 .date-start .date-info {
@@ -911,7 +911,7 @@ section.connexion input.button:hover,
 }
 
 .camp-description p {
-    padding-bottom: 0;
+  padding-bottom: 0;
 }
 
 .camp-description h5 {
@@ -920,9 +920,9 @@ section.connexion input.button:hover,
 }
 
 .c-lvu-home .camp-description {
-    align-items: center;
-    justify-content: space-around;
-    padding: 40px 75px;
+  align-items: center;
+  justify-content: space-around;
+  padding: 40px 75px;
 }
 
 /* --- ABOUT --- */
@@ -936,12 +936,12 @@ section.connexion input.button:hover,
 /* --- TUNNEL CREATION PAGE COLLECTE --- */
 
 dl#step_tab {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .tabs dd.active a,
 .tabs .tab-title.active a {
-    color: #fff;
+  color: #fff;
 }
 
 #form-project .tabs a,
@@ -976,7 +976,7 @@ dl#step_tab {
 }
 
 .g-recaptcha {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 /* --- PAGE COLLECTE --- */
@@ -984,11 +984,11 @@ dl#step_tab {
 .section-projet-details .row.collapse.bg-color-light,
 .row.project-detail-data.p2p-detail-data,
 .block-share-container {
-    background: #053C50;
+  background: #053C50;
 }
 
 .projet-head {
-    background: white;
+  background: white;
 }
 
 .tabs dd.active a,
@@ -997,11 +997,11 @@ dl#step_tab {
 .fix-delete-button,
 .projet-tabs .content ul li.button,
 .projet-tabs .content .button {
-    background-color: #6ed7e5;
+  background-color: #6ed7e5;
 }
 
 div#home {
-    padding: 0 !important;
+  padding: 0 !important;
 }
 
 #home h1 {
@@ -1012,83 +1012,83 @@ div#home {
 }
 
 #home p {
-    text-align: left;
+  text-align: left;
 }
 
 .bx-viewport {
-    box-shadow: none !important;
+  box-shadow: none !important;
 }
 
 .project-detail-data p,
 .fi-clock,
 section.section-projet-details .infos-money .chart-wrap .percent {
-    color: #fff;
+  color: #fff;
 }
 
 .group_edit_project {
-    float: right;
-    font-size: 15px;
-    margin-top: -20px;
+  float: right;
+  font-size: 15px;
+  margin-top: -20px;
 }
 
 #project_tabs .bg-color-light {
-    background: white !important;
+  background: white !important;
 }
 
 .project_event_description.columns .wrapper-description,
 .project_event_description.columns .wrapper-content {
-    background: #fff0;
-    width: 960px;
+  background: #fff0;
+  width: 960px;
 }
 
 .fa-gift {
-    display: none;
+  display: none;
 }
 
 .project_boutons_give {
-    text-transform: uppercase;
-    color: #000 !important;
-    font-weight: 300 !important;
-    height: 50px !important;
-    min-height: 50px !important;
-    padding: 4px !important;
+  text-transform: uppercase;
+  color: #000 !important;
+  font-weight: 300 !important;
+  height: 50px !important;
+  min-height: 50px !important;
+  padding: 4px !important;
 }
 
 h1#show_title {
-    text-align: left;
+  text-align: left;
 }
 
 .user.right {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 p.current-amount {
-    font-size: 50px !important;
-    font-weight: 600 !important;
-    text-align: left !important;
-    padding: 0 !important;
-    font-family: 'LouisVuitton-Medium' !important;
+  font-size: 50px !important;
+  font-weight: 600 !important;
+  text-align: left !important;
+  padding: 0 !important;
+  font-family: 'LouisVuitton-Medium' !important;
 }
 
 p#show_desired_amount {
-    text-align: left !important;
+  text-align: left !important;
 }
 
 .project-detail-data {
-    padding-top: 20px !important;
+  padding-top: 20px !important;
 }
 
 .social-btns {
-    margin: 0 !important;
+  margin: 0 !important;
 }
 
 .tabs-content p {
-    font-weight: 300 !important;
+  font-weight: 300 !important;
 }
 
 .project_content strong {
-    font-weight: 600;
-    font-family: 'LouisVuitton-Medium' !important;
+  font-weight: 600;
+  font-family: 'LouisVuitton-Medium' !important;
 
 }
 
@@ -1096,7 +1096,7 @@ p#show_desired_amount {
 
 #events-index .habillage,
 #projects-index .habillage {
-    background: white !important;
+  background: white !important;
 }
 
 #events-index .event-details {
@@ -1109,30 +1109,30 @@ p#show_desired_amount {
 }
 
 #events-index .event-details {
-    background: #f0f0f0;
+  background: #f0f0f0;
 }
 
 .big,
 .fa-file-text-o {
-    color: #000;
+  color: #000;
 }
 
 .event-description h3,
 .event-description p,
 .event-description .infos {
-    text-align: left !important;
+  text-align: left !important;
 }
 
 .event-details .medium-7 {
-    width: 70%;
+  width: 70%;
 }
 
 .event-details .medium-4 {
-    width: 29%;
+  width: 29%;
 }
 
 .daysleft, .location {
-    display: none;
+  display: none;
 }
 
 .teamcount {
@@ -1140,44 +1140,44 @@ p#show_desired_amount {
 }
 
 .projects-show-team .projet-head .medium-2 {
-    display: none;
+  display: none;
 }
 
 .projects-show-team .projet-head .medium-10 {
-    float: left;
-    width: 100%;
+  float: left;
+  width: 100%;
 }
 
 .block-share-container h4 span {
-    color: white;
+  color: white;
 }
 
 p#show_team {
-    color: #000 !important;
+  color: #000 !important;
 }
 
 p#show_days {
-    text-align: left !important;
+  text-align: left !important;
 }
 
 .contributeurs p {
-    padding: 0 !important;
+  padding: 0 !important;
 }
 
 .block-share-container .social-btns .social_network a .social_network_send,
 .block-share-container .social-btns .social_network a .social_network_share {
-    background-color: #6ed7e4;
+  background-color: #6ed7e4;
 }
 
 .caption a, .infos-money .infos-money-details .info-money.detail {
-    color: #000;
+  color: #000;
 }
 
 #projects-index h1 {
-    text-transform: uppercase;
-    color: #000;
-    text-align: left;
-    font-size: 24px;
+  text-transform: uppercase;
+  color: #000;
+  text-align: left;
+  font-size: 24px;
 }
 
 /* --- PROFILE --- */
@@ -1219,43 +1219,43 @@ footer {
 
 
 footer .top-bar-section li:not(.has-form) a:not(.button) {
-    background-color: #282828 !important;
-    color: white !important;
+  background-color: #282828 !important;
+  color: white !important;
 }
 
 .bottom-bar li:nth-child(1) a[href="#"],
 .bottom-bar li:nth-child(2) a[href="/contact_forms/new"] {
-    display: none !important;
+  display: none !important;
 }
 
 .bottom-bar .right {
-    width: 23%;
+  width: 23%;
 }
 
 .bottom-bar .right li {
-    background: #282828;
+  background: #282828;
 }
 
 .bottom-bar img {
-    width: 52%;
-    margin-top: 18px;
+  width: 52%;
+  margin-top: 18px;
 }
 
 .middle {
-    width: 36%;
-    float: left;
-    padding-top: 10px;
+  width: 36%;
+  float: left;
+  padding-top: 10px;
 }
 
 .middle p {
-    font-size: 12px;
-    color: white;
-    padding: 0;
-    font-style: italic;
+  font-size: 12px;
+  color: white;
+  padding: 0;
+  font-style: italic;
 }
 
 footer .bottom-bar .left li:not(:last-child) {
-    position: relative;
+  position: relative;
 }
 
 footer .bottom-bar .left li:not(:last-child):after {
@@ -1269,151 +1269,156 @@ footer .bottom-bar .left li:not(:last-child):after {
 }
 
 .bottom-bar {
-    width: 1146px;
+  width: 1146px;
 }
 
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
 
-h1#tag-montant {
+  h1#tag-montant {
     font-size: 44px;
     margin-bottom: 15px;
     margin-top: 50px;
-}
+  }
 
-.banner-text {
+  .banner-text {
     width: 90%;
-}
+  }
 
-.banner-text h1 {
+  .banner-text h1 {
     font-size: 44px;
     line-height: 44px;
-}
+  }
 
-.campagne {
-  height: auto;
-  flex-direction: column;
-  width: 80%;
-}
+  .campagne {
+    height: auto;
+    flex-direction: column;
+    width: 80%;
+  }
 
-.camp-photo {
-  height: auto;
-  width: 100%;
-}
+  .camp-photo {
+    height: auto;
+    width: 100%;
+  }
 
-.camp-description {
-  width: 100%;
-  height: auto;
-  padding: 20px 30px !important;
-}
+  .camp-description {
+    width: 100%;
+    height: auto;
+    padding: 20px 30px !important;
+  }
 
-.camp-description .button-blue {
+  .camp-description .button-blue {
     margin: 20px 0;
     width: 85%;
     line-height: 20px;
     padding: 2px 20px !important;
-}
+  }
 
-.about-video,
-.block-images,
-.block-join,
-.block-grey {
+  .about-video,
+  .block-images,
+  .block-join,
+  .block-grey {
     width: 80%;
-}
+  }
 
-.wrapper-content {
+  .wrapper-content {
     width: 80% !important;
-}
+  }
 
-.about-video,
-.block-grey,
-.wrapper-exemples {
+  .about-video,
+  .block-grey,
+  .wrapper-exemples {
     height: auto;
-}
+  }
 
-.block-row {
+  .block-row {
     flex-direction: column;
-}
+  }
 
-.block-images {
+  .block-images {
     width: 80%;
     flex-direction: column;
     height: auto;
     display: none;
-}
+  }
 
-.column-left {
+  .column-left {
     width: 80% !important;
     flex-direction: row;
-}
-.column-right {
+  }
+  .column-right {
     width: 70%;
     flex-direction: row;
-}
+  }
 
-.block-item {
+  .block-item {
     padding: 20px 0px !important;
-}
+  }
 
-.block-join .block-card.block-3 {
+  .block-join .block-card.block-3 {
     width: 80%;
-}
+  }
 
-.block-join-line,
-.block-join-line-sm {
+  .block-join-line,
+  .block-join-line-sm {
     transform: rotate(90deg);
     height: 150px;
-}
+  }
 
-.buttons-flex {
+  .buttons-flex {
     flex-direction: column;
-}
+  }
 
-.buttons-flex .button-blue {
+  .buttons-flex .button-blue {
     margin: 10px;
-}
+  }
 
 
-.bloc-dates {
+  .bloc-dates {
     flex-direction: column;
     width: 80%;
-}
+  }
 
-.card-date.block-4 {
+  .card-date.block-4 {
     width: 100%;
     margin-bottom: 40px;
-}
+  }
 
-.indiv-join img {
+  .indiv-join img {
     width: 100%;
-}
+  }
 
-.indiv-join .button-blue {
+  .indiv-join .button-blue {
     width: 70%;
     line-height: 20px;
-}
+  }
 
-.block-join .block-card.block-3 {
+  .block-join .block-card.block-3 {
     width: 100%;
-}
+  }
 
-h1 {
+  h1 {
     font-size: 30px;
     line-height: 34px;
-}
+  }
 
-.block-grey span {
+  .block-grey span {
     padding: 0px 10px;
-}
+  }
 
-.tabs-content.tab-content {
+  .tabs-content.tab-content {
     width: 100%;
-}
+  }
 
-.bottom-bar {
+  .bottom-bar {
     width: 100%;
-}
+  }
 
+  .banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150px;
+  }
 
 }
