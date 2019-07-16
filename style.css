@@ -1429,7 +1429,7 @@ footer .bottom-bar .left li:not(:last-child):after {
 
   .tabs-content {
     width: 100%;
-    padding: 0 20px;
+    padding: 0 40px;
   }
 
   .bottom-bar {
