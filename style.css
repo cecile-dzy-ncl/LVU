@@ -236,11 +236,11 @@ footer section.top-bar-section li:not(:first-child):after {
   content: none;
 }
 
-#main-nav section.top-bar-section li.active {
+#main-nav section.top-bar-section li a.active {
   font-family: 'LouisVuitton-Medium' !important;
 }
 
-#main-nav section.top-bar-section li:last-child.active {
+#main-nav section.top-bar-section li:last-child a.active {
   font-family: 'LouisVuitton-Medium' !important;
   color: #fff !important;
 }
