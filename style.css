@@ -214,6 +214,10 @@ img.logo {
     background: #6ed7e5;
 }
 
+#main-nav section.top-bar-section li::nth-child(6):after {
+  display: none;
+}
+
 #main-nav section.top-bar-section li:not(:last-child) {
     position: relative;
 }
