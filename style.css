@@ -1460,4 +1460,9 @@ footer .bottom-bar .left li:not(:last-child):after {
     object-fit: contain;
 }
 
+.project_boutons_give {
+    font-size: 20px !important;
+    padding: 11px 0 !important;
+}
+
 }
