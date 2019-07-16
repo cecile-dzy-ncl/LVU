@@ -1421,4 +1421,9 @@ footer .bottom-bar .left li:not(:last-child):after {
     height: 150px;
   }
 
+  .credits p {
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+
 }
