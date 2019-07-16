@@ -1204,6 +1204,11 @@ section.section-projet-details .project-detail-data .contributeurs span {
   font-family: 'LouisVuitton-Medium' !important;
 }
 
+
+#projects-show .notifications_intro #end {
+  text-transform: uppercase;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
