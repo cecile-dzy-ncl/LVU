@@ -927,16 +927,18 @@ section.connexion input.button:hover,
 }
 
 .cpg-video {
-  display: flex;
-  justify-content: center;
   align-items: start;
   height: 424px;
-  width: 1146px;
-  margin: 0px auto 100px auto;
 }
 
 .cpg-video .camp-photo {
   height: 100%;
+  background: none;
+  width: auto;
+}
+
+.cpg-video .camp-description {
+  padding: 0 45px;
 }
 
 
