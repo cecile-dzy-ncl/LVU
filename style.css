@@ -1419,11 +1419,12 @@ footer .bottom-bar .left li:not(:last-child):after {
     background-size: cover;
     background-repeat: no-repeat;
     height: 150px;
+    background-position-x: center;
   }
 
   .credits p {
     margin-right: 10px;
     padding-bottom: 5px;
-}
+  }
 
 }
