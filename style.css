@@ -236,6 +236,15 @@ footer section.top-bar-section li:not(:first-child):after {
   content: none;
 }
 
+#main-nav section.top-bar-section li.active {
+  font-family: 'LouisVuitton-Medium' !important;
+}
+
+#main-nav section.top-bar-section li:last-child.active {
+  font-family: 'LouisVuitton-Medium' !important;
+  color: #fff !important;
+}
+
 /* --- BOUTONS --- */
 
 
