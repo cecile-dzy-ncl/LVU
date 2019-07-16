@@ -919,11 +919,26 @@ section.connexion input.button:hover,
   color: #000 !important;
 }
 
+
 .c-lvu-home .camp-description {
   align-items: center;
   justify-content: space-around;
   padding: 40px 75px;
 }
+
+.cpg-video {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  height: 424px;
+  width: 1146px;
+  margin: 0px auto 100px auto;
+}
+
+.cpg-video .camp-photo {
+  height: 100%;
+}
+
 
 /* --- ABOUT --- */
 
