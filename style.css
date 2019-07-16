@@ -1496,7 +1496,7 @@ footer .bottom-bar .left li:not(:last-child):after {
     padding: 2px 14px !important;
   }
 
-.block-4 {
+.block-2, .block-3, .block-4 {
     width: 80%;
 }
 
