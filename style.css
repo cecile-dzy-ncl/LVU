@@ -1407,5 +1407,9 @@ h1 {
     padding: 0px 10px;
 }
 
+.tabs-content.tab-content {
+    width: 100%;
+}
+
 
 }
