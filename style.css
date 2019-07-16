@@ -1492,5 +1492,9 @@ footer .bottom-bar .left li:not(:last-child):after {
     width: 100%;
   }
 
+  .button-lg, .btn-next {
+    padding: 2px 14px !important;
+  }
+
 
 }
