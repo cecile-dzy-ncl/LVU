@@ -1466,7 +1466,7 @@ footer .bottom-bar .left li:not(:last-child):after {
     padding: 11px 0 !important;
   }
 
-  p#show_days, p#show_desired_amount, .current-amount {
+  p#show_days, p#show_desired_amount, p.current-amount {
     text-align: center !important;
   }
 
