@@ -1200,6 +1200,10 @@ p#show_days {
   font-size: 24px;
 }
 
+section.section-projet-details .project-detail-data .contributeurs span {
+  font-family: 'LouisVuitton-Medium' !important;
+}
+
 /* --- PROFILE --- */
 
 #my-profile .tabs a {
