@@ -1407,7 +1407,11 @@ h1 {
     padding: 0px 10px;
 }
 
-.tabs-content.tab-content {
+/*.tabs-content.tab-content {
+    width: 100%;
+}*/
+
+.bottom-bar {
     width: 100%;
 }
 
