@@ -1426,7 +1426,7 @@ footer .bottom-bar .left li:not(:last-child):after {
     padding: 0px 10px;
   }
 
-  .tabs-content.tab-content {
+  .tabs-content {
     width: 100%;
   }
 
@@ -1452,6 +1452,10 @@ footer .bottom-bar .left li:not(:last-child):after {
 
 #projects-show .notifications_intro {
     width: 250px;
+}
+
+#projects-show .wrapper-content img {
+    object-fit: contain;
 }
 
 }
