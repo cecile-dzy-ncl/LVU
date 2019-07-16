@@ -1452,6 +1452,8 @@ footer .bottom-bar .left li:not(:last-child):after {
 
 #projects-show .notifications_intro {
     width: 250px;
+    left: 15%;
+    margin-left: 0;
 }
 
 #projects-show .wrapper-content img {
