@@ -1169,7 +1169,8 @@ p#show_desired_amount {
   color: white;
 }
 
-p#show_team {
+p#show_team,
+#show_team a {
   color: #000 !important;
 }
 
