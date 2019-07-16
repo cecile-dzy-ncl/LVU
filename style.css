@@ -1446,4 +1446,12 @@ footer .bottom-bar .left li:not(:last-child):after {
     padding-bottom: 5px;
   }
 
+  #projects-show .wrapper-description {
+    width: 80% !important;
+}
+
+#projects-show .notifications_intro {
+    width: 250px;
+}
+
 }
