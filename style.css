@@ -939,6 +939,11 @@ dl#step_tab {
     margin-top: 30px;
 }
 
+.tabs dd.active a,
+.tabs .tab-title.active a {
+    color: #fff;
+}
+
 #form-project .tabs a,
 #form-project .tabs .active a {
   background-color: #000;
