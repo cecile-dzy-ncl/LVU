@@ -1456,6 +1456,7 @@ footer .bottom-bar .left li:not(:last-child):after {
     width: 250px;
     left: 15%;
     margin-left: 0;
+    text-align: center !important;
   }
 
   #projects-show .wrapper-content img {
@@ -1474,5 +1475,13 @@ footer .bottom-bar .left li:not(:last-child):after {
 
   #projects-show .notifications_intro #next {
     padding: 2px 20px !important;
+    width: 100%;
   }
+
+
+  #projects-show .notifications_intro #end {
+    width: 100%;
+  }
+
+
 }
