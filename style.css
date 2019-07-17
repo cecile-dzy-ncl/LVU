@@ -1250,10 +1250,18 @@ section.section-projet-details .project-detail-data .contributeurs span {
 
 /* --- FOOTER --- */
 
+
+
 footer {
   background-color: #282828;
 }
 
+.bottom-bar .top-bar-section {
+    background: #fff0!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 footer .top-bar-section li:not(.has-form) a:not(.button) {
   background-color: #282828 !important;
@@ -1263,6 +1271,10 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
 .bottom-bar li:nth-child(1) a[href="#"],
 .bottom-bar li:nth-child(2) a[href="/contact_forms/new"] {
   display: none !important;
+}
+
+.bottom-bar .left {
+  width: 45%;
 }
 
 .bottom-bar .right {
