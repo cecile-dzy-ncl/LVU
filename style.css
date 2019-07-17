@@ -417,6 +417,10 @@ section.connexion input.button:hover,
   color: #000 !important;
 }
 
+.wrapper-exemples .button-blue {
+    margin: 20px 0 30px 0;
+}
+
 .wrapper-exemples .wrapper-content {
   width: 1146px;
 }
