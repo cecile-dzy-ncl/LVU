@@ -102,6 +102,10 @@ a, a:hover {
 
 /* --- OVERWRITE IRAISER --- */
 
+.section-home-projects {
+    background: #f0f0f0;
+}
+
 div#wrapper {
   background: white;
 }
