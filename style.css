@@ -1275,7 +1275,7 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
 
 .bottom-bar img {
   width: 52%;
-  margin-top: 18px;
+  margin-top: -14px;
 }
 
 .middle {
