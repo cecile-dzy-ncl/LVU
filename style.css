@@ -868,6 +868,10 @@ section.connexion input.button:hover,
 
 /* --- HOMEPAGE --- */
 
+.section-home-projects .button {
+    margin: 0 490px 33px 490px !important;
+}
+
 #tag-montant {
   color: #000000;
   font-family: Montserrat;
