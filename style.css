@@ -218,7 +218,7 @@ img.logo {
   background: #6ed7e5;
 }
 
-#main-nav section.top-bar-section li:nth-child(6):after {
+#main-nav section.top-bar-section li:nth-child(5):after {
   display: none;
 }
 
