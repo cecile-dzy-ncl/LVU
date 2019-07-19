@@ -1309,11 +1309,11 @@ footer .top-bar-section li:not(.has-form) a:not(.button) {
   font-style: italic;
 }
 
-footer .bottom-bar .left li:not(:last-child) {
+footer .bottom-bar .left li:not(:last-child) a {
   position: relative;
 }
 
-footer .bottom-bar .left li:not(:last-child):after {
+footer .bottom-bar .left li:not(:last-child) a:after {
   background: #fff !important;
   content: '';
   height: 22px;
