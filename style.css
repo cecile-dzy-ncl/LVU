@@ -249,8 +249,7 @@ footer section.top-bar-section li:not(:first-child):after {
   color: #fff !important;
 }
 
-footer .bottom-bar .left li:nth-of-type(1):after,
-footer .bottom-bar .left li:nth-of-type(2):after {
+footer .bottom-bar .left li:nth-of-type(1):after {
   display: none;
 }
 
