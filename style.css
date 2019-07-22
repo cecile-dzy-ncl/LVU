@@ -506,7 +506,7 @@ section.connexion input.button:hover,
   font-family: 'LouisVuitton-Medium' !important;
 }
 
-.wrapper-content p a {
+.wrapper-help p a {
   color: #fff !important;
   text-decoration: underline;
   font-weight: 600;
