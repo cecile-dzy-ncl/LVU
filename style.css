@@ -624,6 +624,10 @@ section.connexion input.button:hover,
   height: 245px;
 }
 
+.bloc-pt {
+  flex-direction: column;
+}
+
 .block-join h2 {
   font-weight: 600 !important;
   font-family: 'LouisVuitton-Medium' !important;
