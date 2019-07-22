@@ -502,14 +502,17 @@ section.connexion input.button:hover,
 }
 
 .wrapper-content span {
-  font-weight: 600;
+  font-family: 'LouisVuitton-Medium' !important;
+}
+
+.wrapper-description p a {
+  color: #6ed7e5 !important;
   font-family: 'LouisVuitton-Medium' !important;
 }
 
 .wrapper-help p a {
   color: #fff !important;
   text-decoration: underline;
-  font-weight: 600;
   font-family: 'LouisVuitton-Medium' !important;
 }
 
