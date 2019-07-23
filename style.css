@@ -410,7 +410,8 @@ section.connexion input.button:hover,
 
 /* --- WRAPPERS --- */
 
-.wrapper-exemples {
+.wrapper-exemples,
+.wrapper-exemples-home {
   width: 100%;
   padding-top: 35px;
   background-color: #f0f0f0;
@@ -425,7 +426,8 @@ section.connexion input.button:hover,
     margin: 20px 0 30px 0;
 }
 
-.wrapper-exemples .wrapper-content {
+.wrapper-exemples .wrapper-content,
+.wrapper-exemples-home .wrapper-content {
   width: 1146px;
 }
 
