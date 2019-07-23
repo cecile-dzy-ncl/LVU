@@ -103,7 +103,8 @@ a, a:hover {
 /* --- OVERWRITE IRAISER --- */
 
 .section-home-projects {
-    background: #f0f0f0;
+  background: #f0f0f0;
+  padding-top: 0;
 }
 
 div#wrapper {
