@@ -891,6 +891,10 @@ section.connexion input.button:hover,
     margin: 0 490px 33px 490px !important;
 }
 
+.fa-play:before {
+  background: url('https://www.louisvuittonforunicef.com/cdn.iraiser.eu/36NkQyMVEe7+4KNzUOoWKBwt+yybeMOGfMe3n2LmssGp5wmsNEotxv7Vg6S6hDm8/simon_ROMAIN/origin/triangle.png')
+}
+
 #tag-montant {
   color: #000000;
   font-family: Montserrat;
