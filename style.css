@@ -424,7 +424,7 @@ section.connexion input.button:hover,
 }
 
 .wrapper-exemples .button-blue {
-    margin: 20px 0 30px 0;
+  margin: 20px 0 30px 0;
 }
 
 .wrapper-exemples .wrapper-content,
@@ -630,6 +630,9 @@ section.connexion input.button:hover,
 
 .bloc-pt {
   flex-direction: column;
+  height: 580px;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .block-join h2 {
@@ -888,7 +891,7 @@ section.connexion input.button:hover,
 /* --- HOMEPAGE --- */
 
 .section-home-projects .button {
-    margin: 0 490px 33px 490px !important;
+  margin: 0 490px 33px 490px !important;
 }
 
 .fa-play:before {
@@ -1285,10 +1288,10 @@ footer {
 }
 
 .bottom-bar .top-bar-section {
-    background: #fff0!important;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  background: #fff0!important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 footer .top-bar-section li:not(.has-form) a:not(.button) {
