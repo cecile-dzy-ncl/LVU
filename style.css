@@ -639,6 +639,11 @@ section.connexion input.button:hover,
   font-family: 'LouisVuitton-Medium' !important;
 }
 
+.bloc-pt .block-img {
+  display: block;
+  margin: auto;
+}
+
 .bloc-pt .block-row {
   justify-content: space-between;
   width: 100%;
