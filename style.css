@@ -892,7 +892,12 @@ section.connexion input.button:hover,
 }
 
 .fa-play:before {
-  content: url('https://www.louisvuittonforunicef.com/cdn.iraiser.eu/36NkQyMVEe7+4KNzUOoWKBwt+yybeMOGfMe3n2LmssGp5wmsNEotxv7Vg6S6hDm8/simon_ROMAIN/origin/triangle.png')
+  background: url(https://www.louisvuittonforunicef.com/cdn.iraiser.eu/36NkQyMVEe7+4KNzUOoWKBwt+yybeMOGfMe3n2LmssGp5wmsNEotxv7Vg6S6hDm8/simon_ROMAIN/origin/triangle.png);
+  display: block;
+  width: 10px;
+  height: 10px;
+  content: "";
+  background-size: contain;
 }
 
 #tag-montant {
