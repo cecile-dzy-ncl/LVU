@@ -429,7 +429,8 @@ section.connexion input.button:hover,
   width: 1146px;
 }
 
-.wrapper-exemples h4 {
+.wrapper-exemples h4,
+.wrapper-exemples-home h4 {
   color: #000;
   font-size: 24px;
   letter-spacing: 1.2px;
