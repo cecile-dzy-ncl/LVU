@@ -639,7 +639,7 @@ section.connexion input.button:hover,
   font-family: 'LouisVuitton-Medium' !important;
 }
 
-.bloc-pt .block-img {
+.bloc-pt.linkedin .block-img {
   display: block;
   margin: auto;
 }
