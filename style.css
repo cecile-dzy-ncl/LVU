@@ -635,6 +635,15 @@ section.connexion input.button:hover,
   justify-content: space-between;
 }
 
+.bloc-pt h2 {
+  font-family: 'LouisVuitton-Medium' !important;
+}
+
+.bloc-pt .block-row {
+  justify-content: space-between;
+  width: 100%;
+}
+
 .block-join h2 {
   font-weight: 600 !important;
   font-family: 'LouisVuitton-Medium' !important;
