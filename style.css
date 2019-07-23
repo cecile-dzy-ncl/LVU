@@ -630,7 +630,7 @@ section.connexion input.button:hover,
 
 .bloc-pt {
   flex-direction: column;
-  height: 580px;
+  height: auto;
   align-items: center;
   justify-content: space-between;
 }
@@ -642,6 +642,10 @@ section.connexion input.button:hover,
 .bloc-pt .block-row {
   justify-content: space-between;
   width: 100%;
+}
+
+.bloc-pt h2, .bloc-pt .block-row {
+    margin-bottom: 30px;
 }
 
 .block-join h2 {
