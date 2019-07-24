@@ -1577,5 +1577,9 @@ footer .bottom-bar .left li:not(:last-child) a:after {
     height: auto !important;
     margin: 10px 0;
   }
+  
+    .bloc-pt .block-row {
+      margin-bottom: 0px;
+  }
 
 }
