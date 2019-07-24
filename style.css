@@ -597,10 +597,6 @@ section.connexion input.button:hover,
   height: 100%;
 }
 
-.block-img {
-  background-color: blue;
-}
-
 .column-left .block-img {
   width: 100%;
   justify-content: space-between;
