@@ -1575,7 +1575,7 @@ footer .bottom-bar .left li:not(:last-child) a:after {
   .bloc-pt img {
     object-fit: contain;
     height: auto !important;
-    margin: 10px 0;
+    margin: 10px 0 !important;
   }
   
     .bloc-pt .block-row {
