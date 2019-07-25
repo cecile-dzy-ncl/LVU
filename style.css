@@ -1581,5 +1581,9 @@ footer .bottom-bar .left li:not(:last-child) a:after {
     .bloc-pt .block-row {
       margin-bottom: 0px;
   }
+  
+    .wrapper-ex-content {
+      width: 100%;
+  }
 
 }
