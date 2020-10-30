@@ -183,7 +183,7 @@ section.section-my-event .row,
   > a
   .top-bar-section
   a.active {
-  text-shadow: 0 0 0.35px #000, 0 0 0.35px #000;
+  -webkit-text-stroke: 1px black;
 }
 
 .row.bg-color-light-blurred.first-section {
