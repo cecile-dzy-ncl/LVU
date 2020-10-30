@@ -1,39 +1,53 @@
 /* ------------------- FONTS ------------------- */
 
 @font-face {
-  font-family: 'LouisVuitton-Regular';
-  src: url('https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Regular.otf') format('opentype');
+  font-family: "LouisVuitton-Regular";
+  src: url("https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Regular.otf")
+    format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'LouisVuitton-Light';
-  src: url('https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Light.otf') format('opentype');
+  font-family: "LouisVuitton-Light";
+  src: url("https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Light.otf")
+    format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'LouisVuitton-Medium';
-  src: url('https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Medium.otf') format('opentype');
+  font-family: "LouisVuitton-Medium";
+  src: url("https://cecile-dzy-ncl.github.io/LVU/fonts/LouisVuitton-Medium.otf")
+    format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
+/* ------------------- UTILITIES ------------------- */
 
+.d-none {
+  display: none;
+}
 
 /* ------------------- STYLE ------------------- */
 
 body {
-  font-family: 'LouisVuitton-Light' !important;
+  font-family: "LouisVuitton-Light" !important;
   font-weight: 300 !important;
   /*font-style: normal !important;*/
   margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6, p, button {
-  font-family: 'LouisVuitton-Light' !important;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+button {
+  font-family: "LouisVuitton-Light" !important;
   font-weight: 300 !important;
   /*font-style: normal !important;*/
   text-align: center;
@@ -58,14 +72,14 @@ h2 {
 h4 {
   font-size: 26px;
   font-weight: 500 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
   margin: 0;
 }
 
 h5 {
   font-size: 26px;
   font-weight: 500 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
   margin: 0;
 }
 
@@ -83,15 +97,16 @@ p {
 }
 
 a {
-  color: #6ED7E5;
+  color: #6ed7e5;
   font-weight: 300;
 }
 
 a:hover {
-  color: #1CAFEC;
+  color: #1cafec;
 }
 
-a, a:hover {
+a,
+a:hover {
   text-decoration: none;
 }
 
@@ -123,13 +138,22 @@ div#wrapper {
   padding: 0;
 }
 
-.habillage .row .row, .habillage .section-projets .row, .habillage .section-home-projects .row, .section-projet-details, #project_tabs, section.project_event_description, section.event-head, section.section-my-event .row, .stats-event, #footer-collecte {
+.habillage .row .row,
+.habillage .section-projets .row,
+.habillage .section-home-projects .row,
+.section-projet-details,
+#project_tabs,
+section.project_event_description,
+section.event-head,
+section.section-my-event .row,
+.stats-event,
+#footer-collecte {
   max-width: 71.25em;
   margin: 0 auto;
 }
 
 .infos-money .progress .graph-bar {
-  background-color: #053C50;
+  background-color: #053c50;
   border-radius: 0;
 }
 
@@ -139,13 +163,19 @@ div#wrapper {
 }
 
 .top-bar-section li:not(.has-form) a:not(.button) {
-  font-family: 'LouisVuitton-Light';
+  font-family: "LouisVuitton-Light";
 }
 
-.top-bar-section a:hover, .main-header .top-bar-section ul li:hover:not(.has-form) > a
-.top-bar-section a.active {
+.top-bar-section a:hover,
+.main-header
+  .top-bar-section
+  ul
+  li:hover:not(.has-form)
+  > a
+  .top-bar-section
+  a.active {
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .row.bg-color-light-blurred.first-section {
@@ -153,7 +183,7 @@ div#wrapper {
 }
 
 section.top-bar-section {
-  background: #F0F0F0 !important;
+  background: #f0f0f0 !important;
 }
 
 section#header-header {
@@ -175,7 +205,7 @@ section#header-header {
 }
 
 .bg-secondary-color-blurred {
-  background-color: rgba(240,240,240);
+  background-color: rgba(240, 240, 240);
 }
 
 /* --- MENU --- */
@@ -191,7 +221,7 @@ section#header-header {
 .row-2 {
   height: 47px;
   width: 100%;
-  background-color: #F0F0F0;
+  background-color: #f0f0f0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -229,7 +259,7 @@ img.logo {
 
 #main-nav section.top-bar-section li:not(:last-child):after {
   background: #000 !important;
-  content: '';
+  content: "";
   height: 22px;
   width: 1px;
   position: absolute;
@@ -242,11 +272,11 @@ footer section.top-bar-section li:not(:first-child):after {
 }
 
 #main-nav section.top-bar-section li a.active {
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 #main-nav section.top-bar-section li:last-child a.active {
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
   color: #fff !important;
 }
 
@@ -255,7 +285,6 @@ footer .bottom-bar .left li:nth-of-type(1):after {
 }
 
 /* --- BOUTONS --- */
-
 
 .button-blue,
 .btn-next,
@@ -267,7 +296,7 @@ section.connexion input.button,
   padding: 2px 35px !important;
   background-color: #fff0 !important;
   color: #000 !important;
-  border: 5px solid #6ED7E5 !important;
+  border: 5px solid #6ed7e5 !important;
   font-size: 14px;
   letter-spacing: 0.6px;
   line-height: 32px;
@@ -325,7 +354,6 @@ section.connexion input.button:hover,
 
 /* --- BANNERS --- */
 
-
 .banner {
   height: 412px;
   background-size: cover;
@@ -365,10 +393,9 @@ section.connexion input.button:hover,
   background-image: url(https://www.louisvuittonforunicef.com/cdn.iraiser.eu/36NkQyMVEe7+4KNzUOoWKBwt+yybeMOGfMe3n2LmssGp5wmsNEotxv7Vg6S6hDm8/simon_ROMAIN/origin/pictchildrentogether.jpg);
 }
 
-
 .banner-homepage h1 {
-  color: #FFFFFF;
-  font-family: 'LouisVuitton-Light' !important;
+  color: #ffffff;
+  font-family: "LouisVuitton-Light" !important;
   font-size: 96px;
   line-height: 80px;
   text-align: center;
@@ -385,8 +412,9 @@ section.connexion input.button:hover,
   margin: 95px auto 95px auto;
 }
 
-.banner-text p, .wrapper-help p {
-  color: #fff
+.banner-text p,
+.wrapper-help p {
+  color: #fff;
 }
 
 .banner-homepage .credits p {
@@ -407,7 +435,6 @@ section.connexion input.button:hover,
   font-size: 11px;
   color: #fff;
 }
-
 
 /* --- WRAPPERS --- */
 
@@ -451,7 +478,7 @@ section.connexion input.button:hover,
 .wrapper-help {
   width: 100%;
   padding: 35px 0;
-  background-color: #053C50;
+  background-color: #053c50;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -506,22 +533,22 @@ section.connexion input.button:hover,
 }
 
 .wrapper-content span {
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .wrapper-description p a {
   color: #6ed7e5 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .wrapper-help p a {
   color: #fff !important;
   text-decoration: underline;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .wrapper-about {
-  height:auto;
+  height: auto;
 }
 
 .wrapper-challenge {
@@ -534,7 +561,7 @@ section.connexion input.button:hover,
   font-weight: 600;
   letter-spacing: 0.72px;
   line-height: 29px;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 /* --- BLOCKS --- */
@@ -542,7 +569,7 @@ section.connexion input.button:hover,
 .block-grey {
   height: 600px;
   width: 753px;
-  background-color: #F0F0F0;
+  background-color: #f0f0f0;
   display: flex;
   flex-direction: column;
   margin: auto;
@@ -565,9 +592,10 @@ section.connexion input.button:hover,
   margin-bottom: 20px;
 }
 
-.block-item span, .block-grey h2 {
+.block-item span,
+.block-grey h2 {
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .block-images {
@@ -580,7 +608,8 @@ section.connexion input.button:hover,
   justify-content: center;
 }
 
-.column-left, .column-right {
+.column-left,
+.column-right {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -632,7 +661,7 @@ section.connexion input.button:hover,
 }
 
 .bloc-pt h2 {
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .bloc-pt.linkedin .block-img {
@@ -645,13 +674,14 @@ section.connexion input.button:hover,
   width: 100%;
 }
 
-.bloc-pt h2, .bloc-pt .block-row {
-    margin-bottom: 30px;
+.bloc-pt h2,
+.bloc-pt .block-row {
+  margin-bottom: 30px;
 }
 
 .block-join h2 {
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
   color: #000;
   margin-bottom: 35px;
 }
@@ -702,7 +732,7 @@ section.connexion input.button:hover,
 }
 
 .block-sm .block-card-title {
-  color: #6ED7E5;
+  color: #6ed7e5;
   font-size: 24px;
   letter-spacing: 1.2px;
 }
@@ -713,7 +743,7 @@ section.connexion input.button:hover,
 
 .block-sm span {
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .block-4 {
@@ -737,7 +767,7 @@ section.connexion input.button:hover,
   height: 60px;
 }
 
-.block-card  {
+.block-card {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -746,17 +776,17 @@ section.connexion input.button:hover,
   padding: 15px;
 }
 
-.card-grey  {
-  background-color: #F0F0F0;
+.card-grey {
+  background-color: #f0f0f0;
 }
 
 .block-card-title {
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .block-icon {
-  background-color: #6ED7E5;
+  background-color: #6ed7e5;
   border-radius: 50%;
   height: 176px;
   width: 176px;
@@ -779,14 +809,14 @@ section.connexion input.button:hover,
 .block-join-line {
   height: 390px;
   border-left: 0.5px solid #303333;
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0, 0, 0, 0);
   width: 1px;
 }
 
 .block-join-line-sm {
   height: 230px;
   border-left: 0.5px solid #303333;
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0, 0, 0, 0);
   width: 1px;
 }
 
@@ -802,7 +832,8 @@ section.connexion input.button:hover,
   font-size: 15px !important;
 }
 
-.worldwide .date-info, .worldwide .date-when .date-info {
+.worldwide .date-info,
+.worldwide .date-when .date-info {
   text-align: center !important;
   margin: auto;
 }
@@ -813,7 +844,6 @@ section.connexion input.button:hover,
   display: flex;
   padding: 5px 0;
 }
-
 
 .date-when p,
 .date-start p,
@@ -835,11 +865,10 @@ section.connexion input.button:hover,
   text-align: left;
 }
 
-
 .date-info {
   font-size: 18px;
   font-weight: 600;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
   line-height: 24px;
   text-align: left;
 }
@@ -853,7 +882,8 @@ section.connexion input.button:hover,
   font-size: 16px;
 }
 
-.date-contact .date-info, .date-contact .date-info a {
+.date-contact .date-info,
+.date-contact .date-info a {
   color: #000;
 }
 
@@ -862,7 +892,8 @@ section.connexion input.button:hover,
   text-decoration: underline;
 }
 
-.card-grey .date-when, .card-grey .date-start  {
+.card-grey .date-when,
+.card-grey .date-start {
   text-align: center;
 }
 
@@ -922,7 +953,7 @@ section.connexion input.button:hover,
   font-family: Montserrat;
   font-size: 92px;
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
   letter-spacing: 4.6px;
   line-height: 48px;
   text-align: center;
@@ -955,7 +986,7 @@ section.connexion input.button:hover,
 .camp-description {
   height: 100%;
   width: 50%;
-  background-color: #F0F0F0;
+  background-color: #f0f0f0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -971,7 +1002,6 @@ section.connexion input.button:hover,
   padding: 20px 0;
   color: #000 !important;
 }
-
 
 .c-lvu-home .camp-description {
   align-items: center;
@@ -993,7 +1023,6 @@ section.connexion input.button:hover,
 .cpg-video .camp-description {
   padding: 0 45px;
 }
-
 
 /* --- ABOUT --- */
 
@@ -1023,7 +1052,7 @@ dl#step_tab {
 
 .tabs-content p {
   font-weight: 600 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 #projects-new #form-project input,
@@ -1054,7 +1083,7 @@ dl#step_tab {
 .section-projet-details .row.collapse.bg-color-light,
 .row.project-detail-data.p2p-detail-data,
 .block-share-container {
-  background: #053C50;
+  background: #053c50;
 }
 
 .projet-head {
@@ -1122,7 +1151,7 @@ section.section-projet-details .infos-money .chart-wrap .percent {
   height: 50px !important;
   min-height: 50px !important;
   padding: 7px !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 h1#show_title {
@@ -1138,7 +1167,7 @@ p.current-amount {
   font-weight: 600 !important;
   text-align: left !important;
   padding: 0 !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 p#show_desired_amount {
@@ -1159,8 +1188,7 @@ p#show_desired_amount {
 
 .project_content strong {
   font-weight: 600;
-  font-family: 'LouisVuitton-Medium' !important;
-
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 /* --- AUTRES PAGES --- */
@@ -1202,7 +1230,8 @@ p#show_desired_amount {
   width: 29%;
 }
 
-.daysleft, .location {
+.daysleft,
+.location {
   display: none;
 }
 
@@ -1230,7 +1259,7 @@ p#show_team,
 
 p#show_days {
   text-align: left !important;
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
 
 .contributeurs p {
@@ -1242,7 +1271,8 @@ p#show_days {
   background-color: #6ed7e4;
 }
 
-.caption a, .infos-money .infos-money-details .info-money.detail {
+.caption a,
+.infos-money .infos-money-details .info-money.detail {
   color: #000;
 }
 
@@ -1254,9 +1284,8 @@ p#show_days {
 }
 
 section.section-projet-details .project-detail-data .contributeurs span {
-  font-family: 'LouisVuitton-Medium' !important;
+  font-family: "LouisVuitton-Medium" !important;
 }
-
 
 #projects-show .notifications_intro #end {
   text-transform: uppercase;
@@ -1281,7 +1310,8 @@ section.section-projet-details .project-detail-data .contributeurs span {
   object-fit: cover;
 }
 
-#my-profile .small-9 h1, #my-profile .small-9 p {
+#my-profile .small-9 h1,
+#my-profile .small-9 p {
   text-align: left !important;
 }
 
@@ -1295,14 +1325,12 @@ section.section-projet-details .project-detail-data .contributeurs span {
 
 /* --- FOOTER --- */
 
-
-
 footer {
   background-color: #282828;
 }
 
 .bottom-bar .top-bar-section {
-  background: #fff0!important;
+  background: #fff0 !important;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1352,7 +1380,7 @@ footer .bottom-bar .left li:not(:last-child) a {
 
 footer .bottom-bar .left li:not(:last-child) a:after {
   background: #fff !important;
-  content: '';
+  content: "";
   height: 22px;
   width: 1px;
   position: absolute;
@@ -1367,7 +1395,6 @@ footer .bottom-bar .left li:not(:last-child) a:after {
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
-
   h1#tag-montant {
     font-size: 44px;
     margin-bottom: 15px;
@@ -1466,7 +1493,6 @@ footer .bottom-bar .left li:not(:last-child) a:after {
     margin: 10px;
   }
 
-
   .bloc-dates {
     flex-direction: column;
     width: 80%;
@@ -1540,26 +1566,29 @@ footer .bottom-bar .left li:not(:last-child) a:after {
     padding: 11px 0 !important;
   }
 
-  p#show_days, p#show_desired_amount, p.current-amount {
+  p#show_days,
+  p#show_desired_amount,
+  p.current-amount {
     text-align: center !important;
   }
-
 
   #projects-show .notifications_intro #next {
     padding: 2px 20px !important;
     width: 100%;
   }
 
-
   #projects-show .notifications_intro #end {
     width: 100%;
   }
 
-  .button-lg, .btn-next {
+  .button-lg,
+  .btn-next {
     padding: 2px 14px !important;
   }
 
-  .block-2, .block-3, .block-4 {
+  .block-2,
+  .block-3,
+  .block-4 {
     width: 80%;
   }
 
@@ -1567,27 +1596,26 @@ footer .bottom-bar .left li:not(:last-child) a:after {
   .cpg-video .campagne-description {
     width: 300px;
   }
-  
+
   .bloc-pt {
     display: flex;
   }
-  
+
   .bloc-pt img {
     object-fit: contain;
     height: auto !important;
     margin: 10px 0 !important;
   }
-  
-    .bloc-pt .block-row {
-      margin-bottom: 0px;
-  }
-  
-    .wrapper-ex-content {
-      width: 100%;
-  }
-  
-    img.project-thumbnails {
-      object-position: top;
+
+  .bloc-pt .block-row {
+    margin-bottom: 0px;
   }
 
+  .wrapper-ex-content {
+    width: 100%;
+  }
+
+  img.project-thumbnails {
+    object-position: top;
+  }
 }
