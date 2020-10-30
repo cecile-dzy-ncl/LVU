@@ -183,8 +183,7 @@ section.section-my-event .row,
   > a
   .top-bar-section
   a.active {
-  font-weight: 600 !important;
-  font-family: "LouisVuitton-Medium" !important;
+  text-shadow: 0 0 0.65px #333, 0 0 0.65px #333;
 }
 
 .row.bg-color-light-blurred.first-section {
