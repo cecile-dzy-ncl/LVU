@@ -1465,7 +1465,7 @@ footer .bottom-bar .left li:not(:last-child) a:after {
 
 @media (max-width: 770px) {
   .infos-money .columns {
-    float: none;
+    float: none !important;
   }
   .urgence-ex {
     flex-direction: row;
