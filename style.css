@@ -48,6 +48,7 @@ img {
 
 .wrapper-challenge > .challenge {
   width: 45%;
+  background-color: #f0f0f0;
 }
 
 /* ------------------- STYLE ------------------- */
@@ -268,9 +269,9 @@ img.logo {
   background: #6ed7e5;
 }
 
-#main-nav section.top-bar-section li:nth-child(5):after {
+/* #main-nav section.top-bar-section li:nth-child(5):after {
   display: none;
-}
+} */
 
 #main-nav section.top-bar-section li:not(:last-child) {
   position: relative;
