@@ -39,6 +39,17 @@ img {
   object-position: center;
 }
 
+/* ------------------- STEP CHALLENGE / CHALLENGE ------------------- */
+
+.wrapper-challenge {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper-challenge > .challenge {
+  width: 45%;
+}
+
 /* ------------------- STYLE ------------------- */
 
 body {
