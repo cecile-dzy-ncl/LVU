@@ -1465,7 +1465,7 @@ footer .bottom-bar .left li:not(:last-child) a:after {
 
 @media (max-width: 770px) {
   .bottom-bar .top-bar-section {
-    background: #000 !important;
+    background: #282828 !important;
     flex-direction: column;
   }
   .infos-money-details .columns {
