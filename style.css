@@ -1468,13 +1468,17 @@ footer .bottom-bar .left li:not(:last-child) a:after {
     background: #282828 !important;
     flex-direction: column;
   }
+
+  footer .top-bar-section ul li {
+    background: #282828 !important;
+  }
   .bottom-bar .left,
   .bottom-bar .middle,
   .bottom-bar .right {
     width: 100%;
   }
   .bottom-bar .left li .center {
-    display: flex;
+    text-align: center;
   }
   .infos-money-details .columns {
     width: 100% !important;
