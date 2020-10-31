@@ -1313,6 +1313,10 @@ p#show_desired_amount {
   color: white;
 }
 
+.event-head .block-share-container h4 span {
+  color: black;
+}
+
 p#show_team,
 #show_team a {
   color: #000 !important;
