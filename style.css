@@ -1680,8 +1680,9 @@ footer .bottom-bar .left li:not(:last-child(2)) a:after {
     height: auto;
   }
 
-  .event-item .event-details .wrap {
+  .event-item .panel .event-details .wrap {
     height: auto;
+    padding: 2rem 2rem 0;
   }
   .event-item .wrap > .row {
     display: flex;
