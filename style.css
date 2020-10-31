@@ -292,9 +292,9 @@ img.logo {
   background: #6ed7e5;
 }
 
-/* #main-nav section.top-bar-section li:nth-child(5):after {
+#main-nav section.top-bar-section li:last-child(2):after {
   display: none;
-} */
+}
 
 #main-nav section.top-bar-section li:not(:last-child) {
   position: relative;
@@ -308,10 +308,6 @@ img.logo {
   position: absolute;
   bottom: 11px;
   right: 0;
-}
-
-#main-nav section.top-bar-section li:last-child(2):after {
-  content: none;
 }
 
 footer section.top-bar-section li:not(:first-child):after {
