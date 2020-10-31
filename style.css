@@ -292,22 +292,22 @@ img.logo {
   background: #6ed7e5;
 }
 
-#main-nav section.top-bar-section li:last-child(2):after {
+/* #main-nav section.top-bar-section li:last-child(2):after {
   display: none;
-}
+} */
 
 #main-nav section.top-bar-section li:not(:last-child) {
   position: relative;
 }
 
-#main-nav section.top-bar-section li:not(:last-child):after {
+#main-nav section.top-bar-section li:not(:first-child):before {
   background: #000 !important;
   content: "";
   height: 22px;
   width: 1px;
   position: absolute;
   bottom: 11px;
-  right: 0;
+  left: 0;
 }
 
 footer section.top-bar-section li:not(:first-child):after {
