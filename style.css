@@ -70,6 +70,10 @@ img {
   height: 370px;
 }
 
+.challenge-details div {
+  flex-grow: 1;
+}
+
 /* ------------------- STYLE ------------------- */
 
 body {
