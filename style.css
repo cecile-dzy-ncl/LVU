@@ -1664,4 +1664,14 @@ footer .bottom-bar .left li:not(:last-child) a:after {
   img.project-thumbnails {
     object-position: top;
   }
+
+  .wrapper-challenges {
+    flex-direction: column;
+    width: 80%;
+  }
+
+  .wrapper-challenges > .challenge {
+    width: 100%;
+    margin-bottom: 40px;
+  }
 }
