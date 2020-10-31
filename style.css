@@ -47,6 +47,16 @@ img {
   margin-top: 50px;
 }
 
+.urgence-ex {
+  display: flex;
+}
+
+.urgence-ex p {
+  font-size: 18px;
+  line-height: 20px;
+  padding-left: 10px;
+}
+
 /* ------------------- STEP CHALLENGE / CHALLENGE ------------------- */
 
 .wrapper-challenges {
@@ -1445,9 +1455,10 @@ footer .bottom-bar .left li:not(:last-child) a:after {
 /* ------------------------------- RESPONSIVE ------------------------------- */
 
 @media (max-width: 770px) {
-  .flex-md-row {
-    flex-direction: row !important;
+  .urgence-ex {
+    flex-direction: row;
   }
+
   h1#tag-montant {
     font-size: 44px;
     margin-bottom: 15px;
