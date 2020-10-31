@@ -310,6 +310,10 @@ img.logo {
   right: 0;
 }
 
+#main-nav section.top-bar-section li:last-child(2):after {
+  content: none;
+}
+
 footer section.top-bar-section li:not(:first-child):after {
   content: none;
 }
@@ -1424,8 +1428,7 @@ footer .bottom-bar .left li a {
   position: relative;
 }
 
-footer .bottom-bar .left li:not(:last-child) a:after,
-footer .bottom-bar .left li:not(:last-child(2)) a:after {
+footer .bottom-bar .left li:not(:last-child) a:after {
   background: #fff !important;
   content: "";
   height: 22px;
