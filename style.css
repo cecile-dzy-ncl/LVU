@@ -1489,6 +1489,10 @@ footer .bottom-bar .left li:not(:last-child) a:after {
     width: 100%;
   }
 
+  .cpg-video .camp-photo {
+    width: 100%;
+  }
+
   .camp-description {
     width: 100%;
     height: auto;
@@ -1662,7 +1666,7 @@ footer .bottom-bar .left li:not(:last-child) a:after {
 
   .cpg-video .about-video,
   .cpg-video .campagne-description {
-    width: 300px;
+    width: 100%;
   }
 
   .bloc-pt {
