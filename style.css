@@ -88,6 +88,10 @@ img {
   flex-grow: 1;
 }
 
+.infos-money .columns {
+  width: auto;
+}
+
 /* ------------------- STYLE ------------------- */
 
 body {
